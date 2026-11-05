@@ -1,0 +1,5 @@
+-- The Python pipeline materializes these tables in SQLite.
+-- Grain: fact_order_items = one row per order_id + order_item_id.
+-- Recommended Power BI relationships (1:*): dim_customer -> fact_order_items,
+-- dim_product -> fact_order_items, dim_seller -> fact_order_items,
+-- dim_order -> fact_order_items, dim_date[date] -> fact_order_items[purchase_date].

@@ -1,0 +1,2625 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+cust_00000,person_00000,9835,salvador,RJ
+cust_00001,person_00001,77620,curitiba,RJ
+cust_00002,person_00002,65801,salvador,RJ
+cust_00003,person_00003,44448,sao paulo,SP
+cust_00004,person_00004,43868,curitiba,SP
+cust_00005,person_00005,86000,sao paulo,SP
+cust_00006,person_00006,9508,salvador,SP
+cust_00007,person_00007,70038,recife,RJ
+cust_00008,person_00008,20945,salvador,PE
+cust_00009,person_00009,10323,curitiba,MG
+cust_00010,person_00010,53120,sao paulo,RJ
+cust_00011,person_00011,97585,sao paulo,RJ
+cust_00012,person_00012,73838,belo horizonte,RJ
+cust_00013,person_00013,76352,recife,SP
+cust_00014,person_00014,72029,sao paulo,PR
+cust_00015,person_00015,78819,salvador,SP
+cust_00016,person_00016,51808,rio de janeiro,MG
+cust_00017,person_00017,13683,belo horizonte,PR
+cust_00018,person_00018,84134,rio de janeiro,RJ
+cust_00019,person_00019,45587,belo horizonte,PE
+cust_00020,person_00020,50534,belo horizonte,SP
+cust_00021,person_00021,37708,sao paulo,PE
+cust_00022,person_00022,19072,curitiba,MG
+cust_00023,person_00023,92748,recife,PR
+cust_00024,person_00024,78374,salvador,MG
+cust_00025,person_00025,64742,rio de janeiro,PE
+cust_00026,person_00026,40838,salvador,BA
+cust_00027,person_00027,82452,salvador,RJ
+cust_00028,person_00028,54996,salvador,PR
+cust_00029,person_00029,44897,belo horizonte,PR
+cust_00030,person_00030,45595,salvador,RJ
+cust_00031,person_00031,23496,curitiba,BA
+cust_00032,person_00032,10121,sao paulo,SP
+cust_00033,person_00033,55903,rio de janeiro,RJ
+cust_00034,person_00034,88900,recife,SP
+cust_00035,person_00035,7317,sao paulo,SP
+cust_00036,person_00036,85969,belo horizonte,PE
+cust_00037,person_00037,82934,recife,SP
+cust_00038,person_00038,28398,sao paulo,SP
+cust_00039,person_00039,63534,belo horizonte,SP
+cust_00040,person_00040,17357,rio de janeiro,RJ
+cust_00041,person_00041,76049,curitiba,PR
+cust_00042,person_00042,70351,rio de janeiro,PE
+cust_00043,person_00043,36097,salvador,SP
+cust_00044,person_00044,7724,sao paulo,RJ
+cust_00045,person_00045,97098,salvador,RJ
+cust_00046,person_00046,45122,recife,MG
+cust_00047,person_00047,89418,salvador,RJ
+cust_00048,person_00048,68113,salvador,SP
+cust_00049,person_00049,78059,rio de janeiro,RJ
+cust_00050,person_00050,76229,salvador,RJ
+cust_00051,person_00051,20269,curitiba,RJ
+cust_00052,person_00052,37026,salvador,RJ
+cust_00053,person_00053,47204,salvador,PR
+cust_00054,person_00054,50280,curitiba,PR
+cust_00055,person_00055,5336,belo horizonte,SP
+cust_00056,person_00056,55109,sao paulo,PR
+cust_00057,person_00057,16274,sao paulo,PE
+cust_00058,person_00058,74593,belo horizonte,SP
+cust_00059,person_00059,68621,recife,RJ
+cust_00060,person_00060,92329,curitiba,SP
+cust_00061,person_00061,74730,belo horizonte,PR
+cust_00062,person_00062,37297,rio de janeiro,SP
+cust_00063,person_00063,96782,curitiba,MG
+cust_00064,person_00064,41673,curitiba,SP
+cust_00065,person_00065,33256,salvador,RJ
+cust_00066,person_00066,90647,recife,BA
+cust_00067,person_00067,37675,curitiba,SP
+cust_00068,person_00068,8557,salvador,PE
+cust_00069,person_00069,47485,belo horizonte,BA
+cust_00070,person_00070,79771,salvador,PE
+cust_00071,person_00071,19757,belo horizonte,SP
+cust_00072,person_00072,46830,sao paulo,PR
+cust_00073,person_00073,13862,belo horizonte,SP
+cust_00074,person_00074,68960,sao paulo,SP
+cust_00075,person_00075,48094,sao paulo,PE
+cust_00076,person_00076,33689,salvador,MG
+cust_00077,person_00077,23463,recife,RJ
+cust_00078,person_00078,56884,rio de janeiro,SP
+cust_00079,person_00079,67310,salvador,PR
+cust_00080,person_00080,94089,sao paulo,MG
+cust_00081,person_00081,44277,rio de janeiro,RJ
+cust_00082,person_00082,16907,recife,PE
+cust_00083,person_00083,83434,rio de janeiro,SP
+cust_00084,person_00084,63346,recife,SP
+cust_00085,person_00085,70325,salvador,MG
+cust_00086,person_00086,10625,sao paulo,BA
+cust_00087,person_00087,31923,sao paulo,SP
+cust_00088,person_00088,77015,salvador,SP
+cust_00089,person_00089,83392,curitiba,SP
+cust_00090,person_00090,44086,curitiba,PE
+cust_00091,person_00091,80670,belo horizonte,SP
+cust_00092,person_00092,84326,belo horizonte,RJ
+cust_00093,person_00093,39359,recife,BA
+cust_00094,person_00094,89909,curitiba,SP
+cust_00095,person_00095,29544,sao paulo,RJ
+cust_00096,person_00096,24715,curitiba,RJ
+cust_00097,person_00097,68566,recife,PR
+cust_00098,person_00098,64038,sao paulo,SP
+cust_00099,person_00099,14835,belo horizonte,SP
+cust_00100,person_00100,83440,recife,SP
+cust_00101,person_00101,20790,curitiba,PR
+cust_00102,person_00102,80684,sao paulo,PR
+cust_00103,person_00103,1728,sao paulo,SP
+cust_00104,person_00104,79886,curitiba,SP
+cust_00105,person_00105,78904,belo horizonte,PE
+cust_00106,person_00106,78255,salvador,SP
+cust_00107,person_00107,66819,curitiba,SP
+cust_00108,person_00108,47684,salvador,RJ
+cust_00109,person_00109,70810,rio de janeiro,SP
+cust_00110,person_00110,28434,belo horizonte,SP
+cust_00111,person_00111,78291,sao paulo,RJ
+cust_00112,person_00112,56008,curitiba,SP
+cust_00113,person_00113,46432,rio de janeiro,RJ
+cust_00114,person_00114,51054,belo horizonte,MG
+cust_00115,person_00115,57304,belo horizonte,RJ
+cust_00116,person_00116,4688,rio de janeiro,SP
+cust_00117,person_00117,14839,sao paulo,PE
+cust_00118,person_00118,25302,curitiba,SP
+cust_00119,person_00119,12338,salvador,PR
+cust_00120,person_00120,44521,rio de janeiro,SP
+cust_00121,person_00121,67171,belo horizonte,PR
+cust_00122,person_00122,65787,rio de janeiro,SP
+cust_00123,person_00123,47638,recife,SP
+cust_00124,person_00124,85652,belo horizonte,RJ
+cust_00125,person_00125,56957,salvador,SP
+cust_00126,person_00126,8840,rio de janeiro,SP
+cust_00127,person_00127,76734,sao paulo,MG
+cust_00128,person_00128,57884,curitiba,PE
+cust_00129,person_00129,63836,curitiba,SP
+cust_00130,person_00130,56971,salvador,PE
+cust_00131,person_00131,55803,salvador,PR
+cust_00132,person_00132,9965,salvador,PE
+cust_00133,person_00133,56360,curitiba,MG
+cust_00134,person_00134,79695,belo horizonte,MG
+cust_00135,person_00135,31090,belo horizonte,RJ
+cust_00136,person_00136,60680,sao paulo,MG
+cust_00137,person_00137,4050,belo horizonte,PE
+cust_00138,person_00138,35402,belo horizonte,SP
+cust_00139,person_00139,44234,sao paulo,SP
+cust_00140,person_00140,98290,rio de janeiro,SP
+cust_00141,person_00141,22243,curitiba,BA
+cust_00142,person_00142,28378,belo horizonte,RJ
+cust_00143,person_00143,41443,salvador,MG
+cust_00144,person_00144,99272,belo horizonte,PE
+cust_00145,person_00145,85486,salvador,BA
+cust_00146,person_00146,4434,curitiba,SP
+cust_00147,person_00147,24159,sao paulo,PR
+cust_00148,person_00148,82344,rio de janeiro,PE
+cust_00149,person_00149,6771,recife,SP
+cust_00150,person_00150,85710,curitiba,PR
+cust_00151,person_00151,28856,rio de janeiro,SP
+cust_00152,person_00152,91846,curitiba,MG
+cust_00153,person_00153,30065,salvador,RJ
+cust_00154,person_00154,43996,belo horizonte,SP
+cust_00155,person_00155,66529,sao paulo,SP
+cust_00156,person_00156,13501,rio de janeiro,SP
+cust_00157,person_00157,56145,salvador,SP
+cust_00158,person_00158,50996,recife,MG
+cust_00159,person_00159,78605,salvador,SP
+cust_00160,person_00160,99613,salvador,SP
+cust_00161,person_00161,66766,sao paulo,MG
+cust_00162,person_00162,41509,rio de janeiro,MG
+cust_00163,person_00163,41231,sao paulo,RJ
+cust_00164,person_00164,42377,sao paulo,BA
+cust_00165,person_00165,81587,salvador,SP
+cust_00166,person_00166,32800,salvador,PE
+cust_00167,person_00167,17530,sao paulo,SP
+cust_00168,person_00168,34094,recife,PR
+cust_00169,person_00169,3248,curitiba,BA
+cust_00170,person_00170,11508,sao paulo,PE
+cust_00171,person_00171,9914,salvador,RJ
+cust_00172,person_00172,77382,salvador,MG
+cust_00173,person_00173,72512,curitiba,SP
+cust_00174,person_00174,69979,recife,MG
+cust_00175,person_00175,46725,belo horizonte,PR
+cust_00176,person_00176,71988,recife,BA
+cust_00177,person_00177,16965,belo horizonte,RJ
+cust_00178,person_00178,90160,salvador,SP
+cust_00179,person_00179,50602,sao paulo,MG
+cust_00180,person_00180,93866,rio de janeiro,SP
+cust_00181,person_00181,16078,salvador,SP
+cust_00182,person_00182,50235,rio de janeiro,SP
+cust_00183,person_00183,69935,rio de janeiro,PR
+cust_00184,person_00184,50066,recife,SP
+cust_00185,person_00185,45169,rio de janeiro,SP
+cust_00186,person_00186,17455,curitiba,SP
+cust_00187,person_00187,38720,rio de janeiro,PE
+cust_00188,person_00188,24637,rio de janeiro,MG
+cust_00189,person_00189,30849,salvador,SP
+cust_00190,person_00190,68685,rio de janeiro,SP
+cust_00191,person_00191,63397,sao paulo,RJ
+cust_00192,person_00192,61111,recife,SP
+cust_00193,person_00193,36819,salvador,MG
+cust_00194,person_00194,96008,sao paulo,RJ
+cust_00195,person_00195,9677,recife,BA
+cust_00196,person_00196,34916,curitiba,SP
+cust_00197,person_00197,12682,recife,MG
+cust_00198,person_00198,34555,sao paulo,SP
+cust_00199,person_00199,96226,salvador,BA
+cust_00200,person_00200,37259,curitiba,BA
+cust_00201,person_00201,90948,salvador,PR
+cust_00202,person_00202,50011,belo horizonte,RJ
+cust_00203,person_00203,70270,salvador,SP
+cust_00204,person_00204,46283,curitiba,PR
+cust_00205,person_00205,27320,sao paulo,PR
+cust_00206,person_00206,76657,salvador,SP
+cust_00207,person_00207,96947,recife,RJ
+cust_00208,person_00208,27088,rio de janeiro,RJ
+cust_00209,person_00209,78095,curitiba,PR
+cust_00210,person_00210,26852,belo horizonte,MG
+cust_00211,person_00211,71971,curitiba,MG
+cust_00212,person_00212,79110,salvador,MG
+cust_00213,person_00213,45486,salvador,SP
+cust_00214,person_00214,73954,rio de janeiro,SP
+cust_00215,person_00215,27951,salvador,SP
+cust_00216,person_00216,8846,belo horizonte,PR
+cust_00217,person_00217,10542,recife,RJ
+cust_00218,person_00218,45254,recife,RJ
+cust_00219,person_00219,90356,belo horizonte,SP
+cust_00220,person_00220,13629,belo horizonte,SP
+cust_00221,person_00221,46121,belo horizonte,RJ
+cust_00222,person_00222,70698,salvador,SP
+cust_00223,person_00223,21033,belo horizonte,SP
+cust_00224,person_00224,72439,rio de janeiro,PR
+cust_00225,person_00225,31289,belo horizonte,SP
+cust_00226,person_00226,81056,rio de janeiro,SP
+cust_00227,person_00227,58342,belo horizonte,RJ
+cust_00228,person_00228,55143,sao paulo,PR
+cust_00229,person_00229,18500,sao paulo,SP
+cust_00230,person_00230,46856,recife,PR
+cust_00231,person_00231,85803,sao paulo,BA
+cust_00232,person_00232,2932,curitiba,MG
+cust_00233,person_00233,76092,recife,RJ
+cust_00234,person_00234,49782,recife,PR
+cust_00235,person_00235,72226,belo horizonte,RJ
+cust_00236,person_00236,66665,rio de janeiro,SP
+cust_00237,person_00237,43776,salvador,RJ
+cust_00238,person_00238,31557,salvador,SP
+cust_00239,person_00239,63102,curitiba,SP
+cust_00240,person_00240,14882,sao paulo,SP
+cust_00241,person_00241,58825,sao paulo,SP
+cust_00242,person_00242,10374,rio de janeiro,SP
+cust_00243,person_00243,65334,sao paulo,RJ
+cust_00244,person_00244,63245,salvador,BA
+cust_00245,person_00245,9359,rio de janeiro,SP
+cust_00246,person_00246,75990,rio de janeiro,MG
+cust_00247,person_00247,42164,salvador,RJ
+cust_00248,person_00248,78900,recife,SP
+cust_00249,person_00249,5119,rio de janeiro,SP
+cust_00250,person_00250,18766,belo horizonte,SP
+cust_00251,person_00251,49904,curitiba,SP
+cust_00252,person_00252,19634,curitiba,SP
+cust_00253,person_00253,33655,salvador,SP
+cust_00254,person_00254,66398,salvador,RJ
+cust_00255,person_00255,15307,salvador,SP
+cust_00256,person_00256,68091,sao paulo,SP
+cust_00257,person_00257,11236,rio de janeiro,SP
+cust_00258,person_00258,18343,curitiba,RJ
+cust_00259,person_00259,59176,sao paulo,SP
+cust_00260,person_00260,79554,belo horizonte,RJ
+cust_00261,person_00261,17888,sao paulo,SP
+cust_00262,person_00262,30698,salvador,SP
+cust_00263,person_00263,92585,sao paulo,BA
+cust_00264,person_00264,98977,sao paulo,SP
+cust_00265,person_00265,58524,rio de janeiro,SP
+cust_00266,person_00266,45256,sao paulo,SP
+cust_00267,person_00267,35339,curitiba,BA
+cust_00268,person_00268,61632,belo horizonte,MG
+cust_00269,person_00269,59500,salvador,MG
+cust_00270,person_00270,30180,rio de janeiro,BA
+cust_00271,person_00271,3257,curitiba,SP
+cust_00272,person_00272,15998,curitiba,BA
+cust_00273,person_00273,95896,curitiba,SP
+cust_00274,person_00274,42396,recife,MG
+cust_00275,person_00275,48747,rio de janeiro,RJ
+cust_00276,person_00276,47243,curitiba,SP
+cust_00277,person_00277,78490,recife,BA
+cust_00278,person_00278,7430,salvador,SP
+cust_00279,person_00279,9190,curitiba,BA
+cust_00280,person_00280,28308,curitiba,SP
+cust_00281,person_00281,49178,salvador,MG
+cust_00282,person_00282,67440,curitiba,BA
+cust_00283,person_00283,49579,salvador,SP
+cust_00284,person_00284,44675,sao paulo,BA
+cust_00285,person_00285,93843,belo horizonte,RJ
+cust_00286,person_00286,16940,sao paulo,MG
+cust_00287,person_00287,57600,sao paulo,SP
+cust_00288,person_00288,54681,belo horizonte,RJ
+cust_00289,person_00289,47874,rio de janeiro,MG
+cust_00290,person_00290,80951,belo horizonte,RJ
+cust_00291,person_00291,27430,belo horizonte,SP
+cust_00292,person_00292,95422,curitiba,SP
+cust_00293,person_00293,33824,salvador,PE
+cust_00294,person_00294,54954,salvador,SP
+cust_00295,person_00295,52546,belo horizonte,MG
+cust_00296,person_00296,85127,rio de janeiro,BA
+cust_00297,person_00297,44451,recife,SP
+cust_00298,person_00298,29171,sao paulo,SP
+cust_00299,person_00299,3139,curitiba,MG
+cust_00300,person_00300,37003,belo horizonte,SP
+cust_00301,person_00301,82802,rio de janeiro,RJ
+cust_00302,person_00302,1981,curitiba,MG
+cust_00303,person_00303,89719,rio de janeiro,RJ
+cust_00304,person_00304,54739,rio de janeiro,SP
+cust_00305,person_00305,14884,curitiba,MG
+cust_00306,person_00306,30915,rio de janeiro,MG
+cust_00307,person_00307,55849,recife,SP
+cust_00308,person_00308,32253,sao paulo,RJ
+cust_00309,person_00309,11748,belo horizonte,PE
+cust_00310,person_00310,66932,recife,MG
+cust_00311,person_00311,67551,rio de janeiro,RJ
+cust_00312,person_00312,12768,recife,SP
+cust_00313,person_00313,28841,recife,SP
+cust_00314,person_00314,25143,salvador,SP
+cust_00315,person_00315,66282,rio de janeiro,SP
+cust_00316,person_00316,73298,recife,BA
+cust_00317,person_00317,72971,salvador,SP
+cust_00318,person_00318,93936,recife,PR
+cust_00319,person_00319,77095,rio de janeiro,SP
+cust_00320,person_00320,32746,recife,SP
+cust_00321,person_00321,11666,sao paulo,SP
+cust_00322,person_00322,61849,curitiba,SP
+cust_00323,person_00323,91684,belo horizonte,PR
+cust_00324,person_00324,97539,curitiba,BA
+cust_00325,person_00325,23790,curitiba,PE
+cust_00326,person_00326,24408,sao paulo,SP
+cust_00327,person_00327,4703,curitiba,PR
+cust_00328,person_00328,14984,salvador,SP
+cust_00329,person_00329,55929,belo horizonte,PE
+cust_00330,person_00330,55132,rio de janeiro,RJ
+cust_00331,person_00331,37720,salvador,SP
+cust_00332,person_00332,31685,sao paulo,SP
+cust_00333,person_00333,83148,belo horizonte,SP
+cust_00334,person_00334,46542,curitiba,SP
+cust_00335,person_00335,81016,belo horizonte,PE
+cust_00336,person_00336,96357,salvador,PR
+cust_00337,person_00337,32396,belo horizonte,BA
+cust_00338,person_00338,21070,salvador,SP
+cust_00339,person_00339,95336,sao paulo,MG
+cust_00340,person_00340,63847,recife,SP
+cust_00341,person_00341,29800,curitiba,RJ
+cust_00342,person_00342,62563,rio de janeiro,SP
+cust_00343,person_00343,51990,rio de janeiro,SP
+cust_00344,person_00344,90646,recife,RJ
+cust_00345,person_00345,26340,curitiba,SP
+cust_00346,person_00346,99145,curitiba,RJ
+cust_00347,person_00347,93667,sao paulo,MG
+cust_00348,person_00348,18889,curitiba,SP
+cust_00349,person_00349,17296,salvador,BA
+cust_00350,person_00350,53781,sao paulo,RJ
+cust_00351,person_00351,5446,belo horizonte,PR
+cust_00352,person_00352,30580,belo horizonte,MG
+cust_00353,person_00353,44074,salvador,MG
+cust_00354,person_00354,96966,rio de janeiro,MG
+cust_00355,person_00355,99244,belo horizonte,PE
+cust_00356,person_00356,16002,recife,MG
+cust_00357,person_00357,89275,sao paulo,SP
+cust_00358,person_00358,10001,recife,SP
+cust_00359,person_00359,75111,recife,MG
+cust_00360,person_00360,84717,recife,SP
+cust_00361,person_00361,89187,curitiba,SP
+cust_00362,person_00362,23118,recife,SP
+cust_00363,person_00363,89450,recife,RJ
+cust_00364,person_00364,12481,salvador,SP
+cust_00365,person_00365,52366,belo horizonte,MG
+cust_00366,person_00366,47484,belo horizonte,PR
+cust_00367,person_00367,32276,curitiba,PR
+cust_00368,person_00368,3189,rio de janeiro,SP
+cust_00369,person_00369,77428,salvador,RJ
+cust_00370,person_00370,34222,recife,RJ
+cust_00371,person_00371,66503,curitiba,RJ
+cust_00372,person_00372,41611,rio de janeiro,MG
+cust_00373,person_00373,37991,belo horizonte,SP
+cust_00374,person_00374,88742,belo horizonte,BA
+cust_00375,person_00375,10352,curitiba,SP
+cust_00376,person_00376,73924,recife,PR
+cust_00377,person_00377,74931,recife,MG
+cust_00378,person_00378,38618,salvador,SP
+cust_00379,person_00379,26983,salvador,PR
+cust_00380,person_00380,1525,recife,SP
+cust_00381,person_00381,93743,belo horizonte,PR
+cust_00382,person_00382,94824,curitiba,RJ
+cust_00383,person_00383,24855,belo horizonte,SP
+cust_00384,person_00384,4159,curitiba,SP
+cust_00385,person_00385,13152,recife,PR
+cust_00386,person_00386,7696,belo horizonte,SP
+cust_00387,person_00387,83279,curitiba,PE
+cust_00388,person_00388,89298,sao paulo,PR
+cust_00389,person_00389,16174,recife,MG
+cust_00390,person_00390,74926,belo horizonte,SP
+cust_00391,person_00391,18747,belo horizonte,MG
+cust_00392,person_00392,37353,curitiba,BA
+cust_00393,person_00393,60338,rio de janeiro,SP
+cust_00394,person_00394,72272,curitiba,SP
+cust_00395,person_00395,87580,recife,SP
+cust_00396,person_00396,5433,belo horizonte,SP
+cust_00397,person_00397,20446,sao paulo,PR
+cust_00398,person_00398,28770,belo horizonte,RJ
+cust_00399,person_00399,31721,rio de janeiro,RJ
+cust_00400,person_00400,99803,belo horizonte,SP
+cust_00401,person_00401,77962,curitiba,SP
+cust_00402,person_00402,32720,sao paulo,SP
+cust_00403,person_00403,97209,recife,PE
+cust_00404,person_00404,50430,rio de janeiro,MG
+cust_00405,person_00405,50572,salvador,SP
+cust_00406,person_00406,43935,recife,PR
+cust_00407,person_00407,15245,rio de janeiro,SP
+cust_00408,person_00408,93501,curitiba,SP
+cust_00409,person_00409,2379,sao paulo,SP
+cust_00410,person_00410,18253,sao paulo,BA
+cust_00411,person_00411,23735,salvador,MG
+cust_00412,person_00412,28650,recife,MG
+cust_00413,person_00413,14050,sao paulo,SP
+cust_00414,person_00414,2778,rio de janeiro,SP
+cust_00415,person_00415,68087,rio de janeiro,MG
+cust_00416,person_00416,96960,belo horizonte,SP
+cust_00417,person_00417,13061,rio de janeiro,BA
+cust_00418,person_00418,30356,rio de janeiro,PR
+cust_00419,person_00419,51126,curitiba,RJ
+cust_00420,person_00420,92821,rio de janeiro,PR
+cust_00421,person_00421,69731,salvador,BA
+cust_00422,person_00422,76851,recife,RJ
+cust_00423,person_00423,58529,recife,MG
+cust_00424,person_00424,42286,rio de janeiro,PE
+cust_00425,person_00425,20777,recife,SP
+cust_00426,person_00426,86566,salvador,PE
+cust_00427,person_00427,80607,rio de janeiro,SP
+cust_00428,person_00428,3485,recife,MG
+cust_00429,person_00429,71824,belo horizonte,PR
+cust_00430,person_00430,9354,recife,MG
+cust_00431,person_00431,74158,belo horizonte,RJ
+cust_00432,person_00432,82768,recife,MG
+cust_00433,person_00433,13974,sao paulo,SP
+cust_00434,person_00434,43949,belo horizonte,SP
+cust_00435,person_00435,13251,rio de janeiro,SP
+cust_00436,person_00436,57160,rio de janeiro,MG
+cust_00437,person_00437,92827,rio de janeiro,RJ
+cust_00438,person_00438,9006,belo horizonte,SP
+cust_00439,person_00439,40359,sao paulo,PE
+cust_00440,person_00440,97337,recife,SP
+cust_00441,person_00441,30793,curitiba,RJ
+cust_00442,person_00442,14089,recife,SP
+cust_00443,person_00443,49369,recife,SP
+cust_00444,person_00444,51328,sao paulo,PR
+cust_00445,person_00445,66622,sao paulo,RJ
+cust_00446,person_00446,32059,belo horizonte,SP
+cust_00447,person_00447,95605,belo horizonte,BA
+cust_00448,person_00448,52580,rio de janeiro,PR
+cust_00449,person_00449,29357,recife,MG
+cust_00450,person_00450,96067,curitiba,PE
+cust_00451,person_00451,92555,recife,PE
+cust_00452,person_00452,50416,sao paulo,SP
+cust_00453,person_00453,3461,recife,MG
+cust_00454,person_00454,60096,rio de janeiro,MG
+cust_00455,person_00455,55964,belo horizonte,SP
+cust_00456,person_00456,15672,belo horizonte,SP
+cust_00457,person_00457,63762,recife,SP
+cust_00458,person_00458,84237,rio de janeiro,MG
+cust_00459,person_00459,11483,rio de janeiro,PR
+cust_00460,person_00460,72608,belo horizonte,PR
+cust_00461,person_00461,14893,belo horizonte,SP
+cust_00462,person_00462,75133,rio de janeiro,SP
+cust_00463,person_00463,42491,rio de janeiro,RJ
+cust_00464,person_00464,1644,rio de janeiro,RJ
+cust_00465,person_00465,96655,belo horizonte,PE
+cust_00466,person_00466,17430,belo horizonte,PE
+cust_00467,person_00467,60007,belo horizonte,PE
+cust_00468,person_00468,18965,recife,PE
+cust_00469,person_00469,93368,rio de janeiro,BA
+cust_00470,person_00470,74093,salvador,RJ
+cust_00471,person_00471,80630,recife,SP
+cust_00472,person_00472,43775,rio de janeiro,SP
+cust_00473,person_00473,47270,rio de janeiro,SP
+cust_00474,person_00474,63795,rio de janeiro,SP
+cust_00475,person_00475,78690,rio de janeiro,SP
+cust_00476,person_00476,84850,belo horizonte,BA
+cust_00477,person_00477,2765,sao paulo,SP
+cust_00478,person_00478,66691,sao paulo,BA
+cust_00479,person_00479,11805,belo horizonte,PR
+cust_00480,person_00480,29504,recife,MG
+cust_00481,person_00481,83112,rio de janeiro,MG
+cust_00482,person_00482,25800,salvador,SP
+cust_00483,person_00483,79884,belo horizonte,MG
+cust_00484,person_00484,46837,salvador,SP
+cust_00485,person_00485,24031,rio de janeiro,BA
+cust_00486,person_00486,34089,curitiba,SP
+cust_00487,person_00487,53545,recife,SP
+cust_00488,person_00488,76748,sao paulo,MG
+cust_00489,person_00489,60994,salvador,MG
+cust_00490,person_00490,93388,belo horizonte,RJ
+cust_00491,person_00491,86905,belo horizonte,MG
+cust_00492,person_00492,75581,curitiba,SP
+cust_00493,person_00493,60707,curitiba,MG
+cust_00494,person_00494,29695,sao paulo,SP
+cust_00495,person_00495,41844,salvador,SP
+cust_00496,person_00496,12770,curitiba,SP
+cust_00497,person_00497,38043,salvador,SP
+cust_00498,person_00498,92719,belo horizonte,SP
+cust_00499,person_00499,43161,curitiba,RJ
+cust_00500,person_00500,12259,belo horizonte,SP
+cust_00501,person_00501,65540,salvador,SP
+cust_00502,person_00502,96297,recife,RJ
+cust_00503,person_00503,86880,salvador,SP
+cust_00504,person_00504,28133,curitiba,MG
+cust_00505,person_00505,45935,recife,BA
+cust_00506,person_00506,53570,belo horizonte,RJ
+cust_00507,person_00507,25535,belo horizonte,PE
+cust_00508,person_00508,27600,recife,SP
+cust_00509,person_00509,24429,sao paulo,SP
+cust_00510,person_00510,99462,recife,MG
+cust_00511,person_00511,74854,sao paulo,PR
+cust_00512,person_00512,84243,curitiba,PE
+cust_00513,person_00513,81839,belo horizonte,SP
+cust_00514,person_00514,95954,belo horizonte,PR
+cust_00515,person_00515,11422,belo horizonte,SP
+cust_00516,person_00516,88280,belo horizonte,SP
+cust_00517,person_00517,7589,belo horizonte,SP
+cust_00518,person_00518,48066,belo horizonte,BA
+cust_00519,person_00519,59848,curitiba,SP
+cust_00520,person_00520,36427,recife,PR
+cust_00521,person_00521,15471,curitiba,MG
+cust_00522,person_00522,20037,curitiba,PR
+cust_00523,person_00523,82640,salvador,MG
+cust_00524,person_00524,32553,salvador,PE
+cust_00525,person_00525,31722,sao paulo,SP
+cust_00526,person_00526,92411,recife,SP
+cust_00527,person_00527,15243,rio de janeiro,MG
+cust_00528,person_00528,91610,rio de janeiro,SP
+cust_00529,person_00529,92175,recife,SP
+cust_00530,person_00530,60256,sao paulo,SP
+cust_00531,person_00531,17387,salvador,SP
+cust_00532,person_00532,16430,recife,SP
+cust_00533,person_00533,29187,salvador,SP
+cust_00534,person_00534,58163,recife,PE
+cust_00535,person_00535,16207,salvador,SP
+cust_00536,person_00536,46109,sao paulo,BA
+cust_00537,person_00537,12433,salvador,BA
+cust_00538,person_00538,54487,sao paulo,SP
+cust_00539,person_00539,3093,rio de janeiro,MG
+cust_00540,person_00540,71193,sao paulo,MG
+cust_00541,person_00541,6484,belo horizonte,MG
+cust_00542,person_00542,20287,recife,SP
+cust_00543,person_00543,18289,rio de janeiro,SP
+cust_00544,person_00544,83267,recife,SP
+cust_00545,person_00545,6284,curitiba,MG
+cust_00546,person_00546,43496,curitiba,BA
+cust_00547,person_00547,59522,salvador,MG
+cust_00548,person_00548,52083,belo horizonte,MG
+cust_00549,person_00549,68390,belo horizonte,BA
+cust_00550,person_00550,80506,salvador,MG
+cust_00551,person_00551,39969,curitiba,SP
+cust_00552,person_00552,82992,curitiba,PE
+cust_00553,person_00553,32480,rio de janeiro,SP
+cust_00554,person_00554,98456,rio de janeiro,SP
+cust_00555,person_00555,50947,rio de janeiro,RJ
+cust_00556,person_00556,73864,rio de janeiro,BA
+cust_00557,person_00557,87624,rio de janeiro,SP
+cust_00558,person_00558,79471,recife,RJ
+cust_00559,person_00559,85261,sao paulo,SP
+cust_00560,person_00560,54114,curitiba,SP
+cust_00561,person_00561,5303,salvador,SP
+cust_00562,person_00562,49814,recife,MG
+cust_00563,person_00563,18968,belo horizonte,PE
+cust_00564,person_00564,89021,sao paulo,SP
+cust_00565,person_00565,24437,salvador,SP
+cust_00566,person_00566,23578,sao paulo,SP
+cust_00567,person_00567,25689,recife,SP
+cust_00568,person_00568,64613,recife,RJ
+cust_00569,person_00569,57551,rio de janeiro,MG
+cust_00570,person_00570,94934,recife,MG
+cust_00571,person_00571,42209,rio de janeiro,SP
+cust_00572,person_00572,28945,rio de janeiro,RJ
+cust_00573,person_00573,5876,recife,SP
+cust_00574,person_00574,1700,salvador,SP
+cust_00575,person_00575,37987,rio de janeiro,BA
+cust_00576,person_00576,92654,salvador,PR
+cust_00577,person_00577,52851,salvador,BA
+cust_00578,person_00578,89460,recife,PE
+cust_00579,person_00579,11065,sao paulo,MG
+cust_00580,person_00580,10238,rio de janeiro,BA
+cust_00581,person_00581,83511,recife,SP
+cust_00582,person_00582,11567,salvador,SP
+cust_00583,person_00583,6144,recife,SP
+cust_00584,person_00584,41004,belo horizonte,SP
+cust_00585,person_00585,92558,rio de janeiro,SP
+cust_00586,person_00586,69248,salvador,SP
+cust_00587,person_00587,10812,rio de janeiro,MG
+cust_00588,person_00588,83875,belo horizonte,PR
+cust_00589,person_00589,84513,salvador,MG
+cust_00590,person_00590,80268,curitiba,SP
+cust_00591,person_00591,90361,rio de janeiro,PR
+cust_00592,person_00592,24747,sao paulo,SP
+cust_00593,person_00593,97976,belo horizonte,SP
+cust_00594,person_00594,32748,salvador,SP
+cust_00595,person_00595,80399,belo horizonte,SP
+cust_00596,person_00596,58356,recife,SP
+cust_00597,person_00597,78167,rio de janeiro,PR
+cust_00598,person_00598,63153,recife,PR
+cust_00599,person_00599,64605,recife,MG
+cust_00600,person_00600,62011,curitiba,SP
+cust_00601,person_00601,78119,recife,PR
+cust_00602,person_00602,74164,curitiba,MG
+cust_00603,person_00603,14320,belo horizonte,SP
+cust_00604,person_00604,82778,recife,MG
+cust_00605,person_00605,54070,salvador,RJ
+cust_00606,person_00606,32984,salvador,RJ
+cust_00607,person_00607,51907,rio de janeiro,SP
+cust_00608,person_00608,96730,recife,RJ
+cust_00609,person_00609,85898,sao paulo,SP
+cust_00610,person_00610,83535,curitiba,SP
+cust_00611,person_00611,46816,curitiba,SP
+cust_00612,person_00612,78628,belo horizonte,BA
+cust_00613,person_00613,39123,salvador,SP
+cust_00614,person_00614,68929,salvador,SP
+cust_00615,person_00615,64316,sao paulo,SP
+cust_00616,person_00616,25729,rio de janeiro,PE
+cust_00617,person_00617,27379,rio de janeiro,RJ
+cust_00618,person_00618,7052,salvador,PE
+cust_00619,person_00619,14836,curitiba,SP
+cust_00620,person_00620,43927,recife,SP
+cust_00621,person_00621,48309,recife,RJ
+cust_00622,person_00622,17346,recife,SP
+cust_00623,person_00623,42271,sao paulo,PR
+cust_00624,person_00624,60812,sao paulo,PE
+cust_00625,person_00625,24024,belo horizonte,RJ
+cust_00626,person_00626,34485,belo horizonte,BA
+cust_00627,person_00627,37383,recife,RJ
+cust_00628,person_00628,50999,sao paulo,SP
+cust_00629,person_00629,37272,belo horizonte,RJ
+cust_00630,person_00630,73956,rio de janeiro,SP
+cust_00631,person_00631,33421,rio de janeiro,PR
+cust_00632,person_00632,43955,rio de janeiro,SP
+cust_00633,person_00633,38566,rio de janeiro,SP
+cust_00634,person_00634,19108,curitiba,RJ
+cust_00635,person_00635,68887,belo horizonte,SP
+cust_00636,person_00636,24308,belo horizonte,SP
+cust_00637,person_00637,30390,belo horizonte,MG
+cust_00638,person_00638,79481,recife,SP
+cust_00639,person_00639,94935,salvador,RJ
+cust_00640,person_00640,67412,curitiba,SP
+cust_00641,person_00641,91717,curitiba,SP
+cust_00642,person_00642,85564,recife,SP
+cust_00643,person_00643,48609,recife,PR
+cust_00644,person_00644,77257,sao paulo,BA
+cust_00645,person_00645,33507,salvador,SP
+cust_00646,person_00646,46588,sao paulo,BA
+cust_00647,person_00647,54007,belo horizonte,MG
+cust_00648,person_00648,96087,curitiba,MG
+cust_00649,person_00649,85006,belo horizonte,MG
+cust_00650,person_00650,49435,rio de janeiro,MG
+cust_00651,person_00651,65605,salvador,PR
+cust_00652,person_00652,21033,sao paulo,RJ
+cust_00653,person_00653,80633,rio de janeiro,RJ
+cust_00654,person_00654,55750,salvador,SP
+cust_00655,person_00655,53738,recife,SP
+cust_00656,person_00656,76861,sao paulo,MG
+cust_00657,person_00657,63658,recife,SP
+cust_00658,person_00658,8174,salvador,SP
+cust_00659,person_00659,29527,sao paulo,SP
+cust_00660,person_00660,18495,belo horizonte,SP
+cust_00661,person_00661,73753,belo horizonte,MG
+cust_00662,person_00662,4479,sao paulo,MG
+cust_00663,person_00663,21037,rio de janeiro,RJ
+cust_00664,person_00664,60146,rio de janeiro,SP
+cust_00665,person_00665,69784,rio de janeiro,RJ
+cust_00666,person_00666,50826,belo horizonte,SP
+cust_00667,person_00667,86210,belo horizonte,MG
+cust_00668,person_00668,91974,rio de janeiro,RJ
+cust_00669,person_00669,14078,rio de janeiro,RJ
+cust_00670,person_00670,95297,rio de janeiro,RJ
+cust_00671,person_00671,61822,recife,BA
+cust_00672,person_00672,63985,rio de janeiro,PR
+cust_00673,person_00673,10414,salvador,RJ
+cust_00674,person_00674,62564,curitiba,RJ
+cust_00675,person_00675,72845,recife,SP
+cust_00676,person_00676,58497,curitiba,BA
+cust_00677,person_00677,9364,rio de janeiro,SP
+cust_00678,person_00678,52798,curitiba,SP
+cust_00679,person_00679,93657,rio de janeiro,BA
+cust_00680,person_00680,72617,sao paulo,MG
+cust_00681,person_00681,14603,rio de janeiro,SP
+cust_00682,person_00682,96032,rio de janeiro,SP
+cust_00683,person_00683,95928,sao paulo,SP
+cust_00684,person_00684,17769,sao paulo,MG
+cust_00685,person_00685,80286,salvador,SP
+cust_00686,person_00686,41264,curitiba,BA
+cust_00687,person_00687,59773,belo horizonte,BA
+cust_00688,person_00688,45072,salvador,RJ
+cust_00689,person_00689,78479,rio de janeiro,MG
+cust_00690,person_00690,99668,belo horizonte,SP
+cust_00691,person_00691,79715,salvador,SP
+cust_00692,person_00692,93204,curitiba,PR
+cust_00693,person_00693,94655,belo horizonte,SP
+cust_00694,person_00694,9920,rio de janeiro,SP
+cust_00695,person_00695,26084,sao paulo,SP
+cust_00696,person_00696,72463,sao paulo,SP
+cust_00697,person_00697,59416,sao paulo,RJ
+cust_00698,person_00698,5964,recife,MG
+cust_00699,person_00699,10409,curitiba,PR
+cust_00700,person_00700,52533,belo horizonte,MG
+cust_00701,person_00701,61999,recife,PE
+cust_00702,person_00702,17604,sao paulo,SP
+cust_00703,person_00703,17957,rio de janeiro,PE
+cust_00704,person_00704,13804,belo horizonte,RJ
+cust_00705,person_00705,56929,salvador,SP
+cust_00706,person_00706,1777,curitiba,BA
+cust_00707,person_00707,57670,salvador,SP
+cust_00708,person_00708,48116,rio de janeiro,SP
+cust_00709,person_00709,47132,salvador,SP
+cust_00710,person_00710,68247,sao paulo,SP
+cust_00711,person_00711,52740,rio de janeiro,SP
+cust_00712,person_00712,73046,curitiba,RJ
+cust_00713,person_00713,76627,sao paulo,PE
+cust_00714,person_00714,92090,salvador,SP
+cust_00715,person_00715,80124,salvador,RJ
+cust_00716,person_00716,52252,curitiba,SP
+cust_00717,person_00717,49722,rio de janeiro,PR
+cust_00718,person_00718,24334,sao paulo,SP
+cust_00719,person_00719,60359,curitiba,SP
+cust_00720,person_00720,14774,curitiba,RJ
+cust_00721,person_00721,93191,recife,MG
+cust_00722,person_00722,84658,curitiba,PR
+cust_00723,person_00723,12853,sao paulo,RJ
+cust_00724,person_00724,78808,sao paulo,PR
+cust_00725,person_00725,12593,recife,SP
+cust_00726,person_00726,72400,sao paulo,SP
+cust_00727,person_00727,9683,salvador,SP
+cust_00728,person_00728,49330,sao paulo,SP
+cust_00729,person_00729,66127,recife,SP
+cust_00730,person_00730,73151,salvador,RJ
+cust_00731,person_00731,42441,belo horizonte,SP
+cust_00732,person_00732,92239,sao paulo,RJ
+cust_00733,person_00733,77657,salvador,RJ
+cust_00734,person_00734,21618,rio de janeiro,MG
+cust_00735,person_00735,67451,curitiba,MG
+cust_00736,person_00736,73322,salvador,SP
+cust_00737,person_00737,34029,recife,SP
+cust_00738,person_00738,74084,sao paulo,RJ
+cust_00739,person_00739,89937,recife,MG
+cust_00740,person_00740,81893,sao paulo,SP
+cust_00741,person_00741,76489,recife,SP
+cust_00742,person_00742,63814,curitiba,MG
+cust_00743,person_00743,27782,rio de janeiro,MG
+cust_00744,person_00744,79726,belo horizonte,SP
+cust_00745,person_00745,37054,sao paulo,RJ
+cust_00746,person_00746,53686,salvador,PE
+cust_00747,person_00747,32129,rio de janeiro,SP
+cust_00748,person_00748,31988,rio de janeiro,PE
+cust_00749,person_00749,16603,curitiba,SP
+cust_00750,person_00750,96167,recife,RJ
+cust_00751,person_00751,15630,curitiba,RJ
+cust_00752,person_00752,9539,curitiba,SP
+cust_00753,person_00753,93675,curitiba,PE
+cust_00754,person_00754,55945,salvador,RJ
+cust_00755,person_00755,44352,belo horizonte,BA
+cust_00756,person_00756,74010,recife,SP
+cust_00757,person_00757,38948,recife,PE
+cust_00758,person_00758,13664,salvador,BA
+cust_00759,person_00759,73238,salvador,RJ
+cust_00760,person_00760,18423,recife,SP
+cust_00761,person_00761,55745,rio de janeiro,MG
+cust_00762,person_00762,94956,recife,RJ
+cust_00763,person_00763,93676,recife,BA
+cust_00764,person_00764,36717,rio de janeiro,RJ
+cust_00765,person_00765,78249,recife,SP
+cust_00766,person_00766,61654,rio de janeiro,SP
+cust_00767,person_00767,48457,curitiba,MG
+cust_00768,person_00768,14852,recife,BA
+cust_00769,person_00769,38259,rio de janeiro,SP
+cust_00770,person_00770,65539,belo horizonte,PR
+cust_00771,person_00771,98675,recife,BA
+cust_00772,person_00772,1484,belo horizonte,SP
+cust_00773,person_00773,72057,salvador,SP
+cust_00774,person_00774,84786,sao paulo,MG
+cust_00775,person_00775,95167,recife,MG
+cust_00776,person_00776,42956,recife,SP
+cust_00777,person_00777,12729,salvador,PE
+cust_00778,person_00778,27825,sao paulo,RJ
+cust_00779,person_00779,85201,salvador,PE
+cust_00780,person_00780,87914,belo horizonte,PE
+cust_00781,person_00781,64069,belo horizonte,PR
+cust_00782,person_00782,13151,belo horizonte,RJ
+cust_00783,person_00783,13070,curitiba,SP
+cust_00784,person_00784,48338,curitiba,RJ
+cust_00785,person_00785,59236,belo horizonte,SP
+cust_00786,person_00786,4205,sao paulo,MG
+cust_00787,person_00787,68922,salvador,SP
+cust_00788,person_00788,54905,rio de janeiro,RJ
+cust_00789,person_00789,2217,sao paulo,SP
+cust_00790,person_00790,10471,curitiba,SP
+cust_00791,person_00791,45977,belo horizonte,SP
+cust_00792,person_00792,72535,curitiba,MG
+cust_00793,person_00793,82713,salvador,PR
+cust_00794,person_00794,43698,sao paulo,SP
+cust_00795,person_00795,30240,rio de janeiro,PE
+cust_00796,person_00796,96861,curitiba,PE
+cust_00797,person_00797,46395,recife,SP
+cust_00798,person_00798,32223,curitiba,MG
+cust_00799,person_00799,44788,belo horizonte,SP
+cust_00800,person_00800,2197,curitiba,SP
+cust_00801,person_00801,30890,salvador,RJ
+cust_00802,person_00802,52039,belo horizonte,SP
+cust_00803,person_00803,91924,salvador,PE
+cust_00804,person_00804,74083,recife,BA
+cust_00805,person_00805,78347,rio de janeiro,PR
+cust_00806,person_00806,54944,rio de janeiro,RJ
+cust_00807,person_00807,11948,recife,RJ
+cust_00808,person_00808,39701,rio de janeiro,BA
+cust_00809,person_00809,99705,belo horizonte,SP
+cust_00810,person_00810,5372,rio de janeiro,SP
+cust_00811,person_00811,88039,curitiba,RJ
+cust_00812,person_00812,68764,rio de janeiro,SP
+cust_00813,person_00813,29106,curitiba,SP
+cust_00814,person_00814,78020,salvador,SP
+cust_00815,person_00815,83851,recife,MG
+cust_00816,person_00816,5278,salvador,SP
+cust_00817,person_00817,11535,sao paulo,SP
+cust_00818,person_00818,66908,belo horizonte,SP
+cust_00819,person_00819,99910,rio de janeiro,SP
+cust_00820,person_00820,3372,salvador,PE
+cust_00821,person_00821,66902,recife,SP
+cust_00822,person_00822,14515,rio de janeiro,MG
+cust_00823,person_00823,65361,curitiba,PR
+cust_00824,person_00824,62707,curitiba,SP
+cust_00825,person_00825,9953,belo horizonte,PR
+cust_00826,person_00826,68391,belo horizonte,MG
+cust_00827,person_00827,89805,sao paulo,RJ
+cust_00828,person_00828,86480,belo horizonte,SP
+cust_00829,person_00829,3870,belo horizonte,SP
+cust_00830,person_00830,25345,recife,BA
+cust_00831,person_00831,24841,salvador,PR
+cust_00832,person_00832,45875,recife,BA
+cust_00833,person_00833,15159,sao paulo,PE
+cust_00834,person_00834,85579,salvador,SP
+cust_00835,person_00835,77899,belo horizonte,PR
+cust_00836,person_00836,81025,belo horizonte,RJ
+cust_00837,person_00837,20622,salvador,PR
+cust_00838,person_00838,2442,salvador,SP
+cust_00839,person_00839,91152,sao paulo,SP
+cust_00840,person_00840,29601,belo horizonte,PR
+cust_00841,person_00841,65969,recife,PR
+cust_00842,person_00842,91033,curitiba,MG
+cust_00843,person_00843,4580,rio de janeiro,SP
+cust_00844,person_00844,1541,curitiba,SP
+cust_00845,person_00845,1537,salvador,BA
+cust_00846,person_00846,16476,rio de janeiro,RJ
+cust_00847,person_00847,6114,recife,RJ
+cust_00848,person_00848,82177,recife,RJ
+cust_00849,person_00849,60985,salvador,SP
+cust_00850,person_00850,98023,rio de janeiro,RJ
+cust_00851,person_00851,80345,rio de janeiro,RJ
+cust_00852,person_00852,96354,curitiba,PR
+cust_00853,person_00853,24616,curitiba,PE
+cust_00854,person_00854,29491,belo horizonte,BA
+cust_00855,person_00855,85090,recife,RJ
+cust_00856,person_00856,25243,recife,RJ
+cust_00857,person_00857,6665,rio de janeiro,MG
+cust_00858,person_00858,67243,recife,PE
+cust_00859,person_00859,80294,rio de janeiro,RJ
+cust_00860,person_00860,96850,belo horizonte,MG
+cust_00861,person_00861,92850,sao paulo,PR
+cust_00862,person_00862,12902,belo horizonte,MG
+cust_00863,person_00863,77437,salvador,PR
+cust_00864,person_00864,84765,belo horizonte,SP
+cust_00865,person_00865,70113,recife,RJ
+cust_00866,person_00866,82159,sao paulo,RJ
+cust_00867,person_00867,83959,curitiba,SP
+cust_00868,person_00868,45208,belo horizonte,PE
+cust_00869,person_00869,4974,recife,MG
+cust_00870,person_00870,46162,salvador,SP
+cust_00871,person_00871,20976,curitiba,PR
+cust_00872,person_00872,12259,sao paulo,MG
+cust_00873,person_00873,13367,belo horizonte,PR
+cust_00874,person_00874,70039,sao paulo,SP
+cust_00875,person_00875,50948,belo horizonte,PE
+cust_00876,person_00876,54443,sao paulo,SP
+cust_00877,person_00877,74772,curitiba,RJ
+cust_00878,person_00878,55277,rio de janeiro,SP
+cust_00879,person_00879,63370,rio de janeiro,MG
+cust_00880,person_00880,9516,sao paulo,MG
+cust_00881,person_00881,85261,salvador,RJ
+cust_00882,person_00882,45428,salvador,RJ
+cust_00883,person_00883,16365,recife,PR
+cust_00884,person_00884,81518,sao paulo,MG
+cust_00885,person_00885,73726,belo horizonte,SP
+cust_00886,person_00886,6249,salvador,BA
+cust_00887,person_00887,20110,curitiba,MG
+cust_00888,person_00888,2559,sao paulo,BA
+cust_00889,person_00889,27804,sao paulo,BA
+cust_00890,person_00890,10897,rio de janeiro,PE
+cust_00891,person_00891,71279,salvador,PR
+cust_00892,person_00892,52732,rio de janeiro,MG
+cust_00893,person_00893,98039,salvador,SP
+cust_00894,person_00894,75192,recife,RJ
+cust_00895,person_00895,61542,salvador,PR
+cust_00896,person_00896,51421,recife,RJ
+cust_00897,person_00897,6395,rio de janeiro,PE
+cust_00898,person_00898,7949,recife,SP
+cust_00899,person_00899,62013,rio de janeiro,SP
+cust_00900,person_00900,1433,rio de janeiro,RJ
+cust_00901,person_00901,5192,rio de janeiro,RJ
+cust_00902,person_00902,22694,sao paulo,SP
+cust_00903,person_00903,88529,sao paulo,SP
+cust_00904,person_00904,46433,rio de janeiro,PE
+cust_00905,person_00905,71247,sao paulo,RJ
+cust_00906,person_00906,41744,belo horizonte,SP
+cust_00907,person_00907,18139,sao paulo,SP
+cust_00908,person_00908,37744,sao paulo,RJ
+cust_00909,person_00909,10080,salvador,SP
+cust_00910,person_00910,77254,sao paulo,MG
+cust_00911,person_00911,19169,sao paulo,PR
+cust_00912,person_00912,38260,sao paulo,SP
+cust_00913,person_00913,98021,sao paulo,MG
+cust_00914,person_00914,59603,curitiba,SP
+cust_00915,person_00915,46397,recife,SP
+cust_00916,person_00916,54757,recife,PE
+cust_00917,person_00917,78623,curitiba,RJ
+cust_00918,person_00918,26193,sao paulo,PE
+cust_00919,person_00919,64003,recife,SP
+cust_00920,person_00920,87395,sao paulo,SP
+cust_00921,person_00921,57668,curitiba,RJ
+cust_00922,person_00922,45207,belo horizonte,RJ
+cust_00923,person_00923,15367,salvador,BA
+cust_00924,person_00924,25580,rio de janeiro,SP
+cust_00925,person_00925,94655,curitiba,PE
+cust_00926,person_00926,54584,belo horizonte,PE
+cust_00927,person_00927,30832,curitiba,RJ
+cust_00928,person_00928,42418,salvador,SP
+cust_00929,person_00929,58223,recife,RJ
+cust_00930,person_00930,54216,belo horizonte,SP
+cust_00931,person_00931,70277,belo horizonte,PR
+cust_00932,person_00932,26491,recife,RJ
+cust_00933,person_00933,65273,belo horizonte,BA
+cust_00934,person_00934,44824,rio de janeiro,MG
+cust_00935,person_00935,94117,belo horizonte,RJ
+cust_00936,person_00936,16634,sao paulo,MG
+cust_00937,person_00937,15695,rio de janeiro,RJ
+cust_00938,person_00938,46703,belo horizonte,PE
+cust_00939,person_00939,51326,recife,SP
+cust_00940,person_00940,69395,recife,BA
+cust_00941,person_00941,40999,rio de janeiro,PR
+cust_00942,person_00942,91456,belo horizonte,PE
+cust_00943,person_00943,47942,sao paulo,RJ
+cust_00944,person_00944,13804,recife,PE
+cust_00945,person_00945,12802,rio de janeiro,SP
+cust_00946,person_00946,97366,recife,PR
+cust_00947,person_00947,14275,salvador,SP
+cust_00948,person_00948,94836,recife,SP
+cust_00949,person_00949,28529,rio de janeiro,RJ
+cust_00950,person_00950,10247,salvador,SP
+cust_00951,person_00951,31165,recife,SP
+cust_00952,person_00952,61854,curitiba,PR
+cust_00953,person_00953,43361,salvador,SP
+cust_00954,person_00954,78771,salvador,PR
+cust_00955,person_00955,61487,sao paulo,SP
+cust_00956,person_00956,40677,salvador,PR
+cust_00957,person_00957,63827,recife,PR
+cust_00958,person_00958,97173,rio de janeiro,SP
+cust_00959,person_00959,41768,rio de janeiro,MG
+cust_00960,person_00960,16190,recife,PE
+cust_00961,person_00961,41469,rio de janeiro,PR
+cust_00962,person_00962,84170,belo horizonte,SP
+cust_00963,person_00963,22545,recife,RJ
+cust_00964,person_00964,94964,curitiba,PR
+cust_00965,person_00965,59241,salvador,SP
+cust_00966,person_00966,60555,sao paulo,PR
+cust_00967,person_00967,32386,rio de janeiro,SP
+cust_00968,person_00968,92124,salvador,PR
+cust_00969,person_00969,4569,curitiba,SP
+cust_00970,person_00970,30568,rio de janeiro,SP
+cust_00971,person_00971,42421,rio de janeiro,BA
+cust_00972,person_00972,48249,belo horizonte,PE
+cust_00973,person_00973,47938,curitiba,PE
+cust_00974,person_00974,15644,rio de janeiro,BA
+cust_00975,person_00975,23333,curitiba,RJ
+cust_00976,person_00976,10428,belo horizonte,SP
+cust_00977,person_00977,57672,curitiba,SP
+cust_00978,person_00978,35735,sao paulo,RJ
+cust_00979,person_00979,57010,curitiba,SP
+cust_00980,person_00980,59381,salvador,BA
+cust_00981,person_00981,70497,sao paulo,SP
+cust_00982,person_00982,55155,rio de janeiro,SP
+cust_00983,person_00983,65146,recife,SP
+cust_00984,person_00984,59127,curitiba,SP
+cust_00985,person_00985,65590,recife,SP
+cust_00986,person_00986,62047,curitiba,MG
+cust_00987,person_00987,32304,recife,SP
+cust_00988,person_00988,25381,curitiba,MG
+cust_00989,person_00989,78955,sao paulo,PE
+cust_00990,person_00990,34927,recife,MG
+cust_00991,person_00991,55364,belo horizonte,MG
+cust_00992,person_00992,20500,sao paulo,SP
+cust_00993,person_00993,43709,belo horizonte,SP
+cust_00994,person_00994,53436,belo horizonte,SP
+cust_00995,person_00995,62974,sao paulo,BA
+cust_00996,person_00996,53110,salvador,MG
+cust_00997,person_00997,36704,rio de janeiro,SP
+cust_00998,person_00998,96214,rio de janeiro,RJ
+cust_00999,person_00999,51760,belo horizonte,PE
+cust_01000,person_01000,81020,recife,MG
+cust_01001,person_01001,73933,recife,RJ
+cust_01002,person_01002,56272,recife,PE
+cust_01003,person_01003,88752,rio de janeiro,MG
+cust_01004,person_01004,13698,salvador,MG
+cust_01005,person_01005,92183,recife,SP
+cust_01006,person_01006,85171,belo horizonte,SP
+cust_01007,person_01007,50859,curitiba,BA
+cust_01008,person_01008,73605,sao paulo,MG
+cust_01009,person_01009,52506,recife,SP
+cust_01010,person_01010,27607,salvador,RJ
+cust_01011,person_01011,80186,belo horizonte,SP
+cust_01012,person_01012,25346,curitiba,PR
+cust_01013,person_01013,32130,belo horizonte,SP
+cust_01014,person_01014,52409,sao paulo,PR
+cust_01015,person_01015,83900,curitiba,RJ
+cust_01016,person_01016,39008,recife,SP
+cust_01017,person_01017,49919,salvador,SP
+cust_01018,person_01018,5124,salvador,PR
+cust_01019,person_01019,12469,belo horizonte,SP
+cust_01020,person_01020,6538,salvador,SP
+cust_01021,person_01021,8133,curitiba,PR
+cust_01022,person_01022,86982,curitiba,SP
+cust_01023,person_01023,84356,curitiba,SP
+cust_01024,person_01024,82365,salvador,SP
+cust_01025,person_01025,6501,recife,PE
+cust_01026,person_01026,8686,sao paulo,SP
+cust_01027,person_01027,28780,sao paulo,SP
+cust_01028,person_01028,56963,belo horizonte,SP
+cust_01029,person_01029,34078,curitiba,SP
+cust_01030,person_01030,49267,recife,SP
+cust_01031,person_01031,18126,belo horizonte,SP
+cust_01032,person_01032,73346,curitiba,SP
+cust_01033,person_01033,32075,salvador,SP
+cust_01034,person_01034,7587,belo horizonte,PE
+cust_01035,person_01035,74525,belo horizonte,SP
+cust_01036,person_01036,90375,curitiba,SP
+cust_01037,person_01037,2453,belo horizonte,PE
+cust_01038,person_01038,44230,salvador,PE
+cust_01039,person_01039,82889,salvador,MG
+cust_01040,person_01040,70909,curitiba,SP
+cust_01041,person_01041,85797,belo horizonte,SP
+cust_01042,person_01042,42105,curitiba,SP
+cust_01043,person_01043,37853,rio de janeiro,SP
+cust_01044,person_01044,71207,belo horizonte,SP
+cust_01045,person_01045,16207,rio de janeiro,RJ
+cust_01046,person_01046,24702,sao paulo,SP
+cust_01047,person_01047,60482,sao paulo,MG
+cust_01048,person_01048,67176,curitiba,SP
+cust_01049,person_01049,12847,sao paulo,SP
+cust_01050,person_01050,51322,curitiba,PR
+cust_01051,person_01051,37126,belo horizonte,PE
+cust_01052,person_01052,50672,belo horizonte,SP
+cust_01053,person_01053,95883,recife,RJ
+cust_01054,person_01054,8584,curitiba,SP
+cust_01055,person_01055,99549,recife,SP
+cust_01056,person_01056,45507,recife,PR
+cust_01057,person_01057,77437,sao paulo,SP
+cust_01058,person_01058,43022,rio de janeiro,RJ
+cust_01059,person_01059,31784,curitiba,RJ
+cust_01060,person_01060,77288,salvador,SP
+cust_01061,person_01061,69078,sao paulo,SP
+cust_01062,person_01062,15261,sao paulo,SP
+cust_01063,person_01063,70834,salvador,BA
+cust_01064,person_01064,75553,salvador,MG
+cust_01065,person_01065,39395,rio de janeiro,SP
+cust_01066,person_01066,92638,belo horizonte,SP
+cust_01067,person_01067,64447,curitiba,MG
+cust_01068,person_01068,34028,rio de janeiro,SP
+cust_01069,person_01069,2062,rio de janeiro,RJ
+cust_01070,person_01070,67820,belo horizonte,PR
+cust_01071,person_01071,21696,curitiba,RJ
+cust_01072,person_01072,75895,rio de janeiro,SP
+cust_01073,person_01073,52983,belo horizonte,SP
+cust_01074,person_01074,47205,rio de janeiro,SP
+cust_01075,person_01075,17211,recife,RJ
+cust_01076,person_01076,71438,sao paulo,PE
+cust_01077,person_01077,17424,rio de janeiro,SP
+cust_01078,person_01078,42357,rio de janeiro,RJ
+cust_01079,person_01079,83793,salvador,MG
+cust_01080,person_01080,92115,salvador,SP
+cust_01081,person_01081,98923,curitiba,SP
+cust_01082,person_01082,95842,sao paulo,SP
+cust_01083,person_01083,56040,recife,MG
+cust_01084,person_01084,20847,belo horizonte,RJ
+cust_01085,person_01085,84067,salvador,PR
+cust_01086,person_01086,80360,belo horizonte,PE
+cust_01087,person_01087,99040,salvador,PR
+cust_01088,person_01088,65443,recife,BA
+cust_01089,person_01089,15017,rio de janeiro,PR
+cust_01090,person_01090,50786,recife,PE
+cust_01091,person_01091,45375,rio de janeiro,PE
+cust_01092,person_01092,84450,belo horizonte,PR
+cust_01093,person_01093,39864,rio de janeiro,PR
+cust_01094,person_01094,33530,recife,BA
+cust_01095,person_01095,8924,rio de janeiro,RJ
+cust_01096,person_01096,83709,curitiba,MG
+cust_01097,person_01097,75776,curitiba,RJ
+cust_01098,person_01098,5081,recife,PE
+cust_01099,person_01099,43943,salvador,RJ
+cust_01100,person_01100,48491,sao paulo,PR
+cust_01101,person_01101,47462,salvador,PR
+cust_01102,person_01102,91973,sao paulo,BA
+cust_01103,person_01103,15916,curitiba,SP
+cust_01104,person_01104,31327,belo horizonte,MG
+cust_01105,person_01105,18911,curitiba,PR
+cust_01106,person_01106,25164,recife,BA
+cust_01107,person_01107,90802,salvador,PE
+cust_01108,person_01108,94130,belo horizonte,RJ
+cust_01109,person_01109,5420,salvador,RJ
+cust_01110,person_01110,63576,rio de janeiro,SP
+cust_01111,person_01111,24052,rio de janeiro,BA
+cust_01112,person_01112,20063,belo horizonte,SP
+cust_01113,person_01113,29913,curitiba,MG
+cust_01114,person_01114,20244,recife,PR
+cust_01115,person_01115,49529,recife,RJ
+cust_01116,person_01116,99564,rio de janeiro,SP
+cust_01117,person_01117,59057,rio de janeiro,SP
+cust_01118,person_01118,72600,salvador,PE
+cust_01119,person_01119,49835,belo horizonte,RJ
+cust_01120,person_01120,2376,rio de janeiro,SP
+cust_01121,person_01121,9327,salvador,MG
+cust_01122,person_01122,27618,belo horizonte,SP
+cust_01123,person_01123,25122,salvador,PE
+cust_01124,person_01124,84216,salvador,SP
+cust_01125,person_01125,84514,salvador,SP
+cust_01126,person_01126,85557,curitiba,SP
+cust_01127,person_01127,64120,recife,RJ
+cust_01128,person_01128,56060,salvador,RJ
+cust_01129,person_01129,65265,rio de janeiro,PR
+cust_01130,person_01130,41273,sao paulo,RJ
+cust_01131,person_01131,67349,rio de janeiro,SP
+cust_01132,person_01132,79649,curitiba,SP
+cust_01133,person_01133,76526,curitiba,SP
+cust_01134,person_01134,61768,sao paulo,BA
+cust_01135,person_01135,6752,curitiba,SP
+cust_01136,person_01136,72769,rio de janeiro,BA
+cust_01137,person_01137,37293,curitiba,SP
+cust_01138,person_01138,74622,curitiba,SP
+cust_01139,person_01139,54412,curitiba,SP
+cust_01140,person_01140,88236,belo horizonte,SP
+cust_01141,person_01141,34506,belo horizonte,PR
+cust_01142,person_01142,93207,recife,RJ
+cust_01143,person_01143,84602,recife,SP
+cust_01144,person_01144,33779,recife,MG
+cust_01145,person_01145,48774,belo horizonte,MG
+cust_01146,person_01146,53602,belo horizonte,BA
+cust_01147,person_01147,77093,rio de janeiro,BA
+cust_01148,person_01148,69225,curitiba,MG
+cust_01149,person_01149,85348,sao paulo,PR
+cust_01150,person_01150,37616,belo horizonte,PR
+cust_01151,person_01151,50973,rio de janeiro,RJ
+cust_01152,person_01152,43655,curitiba,MG
+cust_01153,person_01153,91044,salvador,SP
+cust_01154,person_01154,31192,salvador,PR
+cust_01155,person_01155,59124,belo horizonte,BA
+cust_01156,person_01156,12896,sao paulo,SP
+cust_01157,person_01157,85176,rio de janeiro,PE
+cust_01158,person_01158,39037,sao paulo,BA
+cust_01159,person_01159,34718,recife,SP
+cust_01160,person_01160,58708,salvador,RJ
+cust_01161,person_01161,50382,curitiba,BA
+cust_01162,person_01162,84948,rio de janeiro,BA
+cust_01163,person_01163,53609,sao paulo,SP
+cust_01164,person_01164,52181,salvador,SP
+cust_01165,person_01165,11392,rio de janeiro,MG
+cust_01166,person_01166,3171,sao paulo,SP
+cust_01167,person_01167,40456,rio de janeiro,SP
+cust_01168,person_01168,99821,rio de janeiro,SP
+cust_01169,person_01169,91815,curitiba,SP
+cust_01170,person_01170,63268,salvador,RJ
+cust_01171,person_01171,63451,rio de janeiro,MG
+cust_01172,person_01172,39758,recife,MG
+cust_01173,person_01173,18572,sao paulo,PR
+cust_01174,person_01174,1846,sao paulo,SP
+cust_01175,person_01175,34546,sao paulo,SP
+cust_01176,person_01176,32330,salvador,SP
+cust_01177,person_01177,19968,curitiba,SP
+cust_01178,person_01178,26657,recife,SP
+cust_01179,person_01179,3457,sao paulo,SP
+cust_01180,person_01180,61187,sao paulo,SP
+cust_01181,person_01181,92817,salvador,SP
+cust_01182,person_01182,69388,sao paulo,MG
+cust_01183,person_01183,45372,sao paulo,MG
+cust_01184,person_01184,42606,curitiba,BA
+cust_01185,person_01185,31445,curitiba,PR
+cust_01186,person_01186,15098,rio de janeiro,RJ
+cust_01187,person_01187,60248,belo horizonte,SP
+cust_01188,person_01188,57085,recife,RJ
+cust_01189,person_01189,1724,belo horizonte,SP
+cust_01190,person_01190,42136,belo horizonte,RJ
+cust_01191,person_01191,28523,sao paulo,SP
+cust_01192,person_01192,17857,belo horizonte,RJ
+cust_01193,person_01193,70599,recife,SP
+cust_01194,person_01194,53056,curitiba,MG
+cust_01195,person_01195,63742,salvador,PE
+cust_01196,person_01196,71633,sao paulo,PR
+cust_01197,person_01197,98197,sao paulo,MG
+cust_01198,person_01198,80472,curitiba,RJ
+cust_01199,person_01199,62414,rio de janeiro,SP
+cust_01200,person_01200,88022,curitiba,MG
+cust_01201,person_01201,48272,salvador,RJ
+cust_01202,person_01202,98490,belo horizonte,SP
+cust_01203,person_01203,76381,curitiba,SP
+cust_01204,person_01204,65436,recife,BA
+cust_01205,person_01205,90428,sao paulo,MG
+cust_01206,person_01206,51992,salvador,RJ
+cust_01207,person_01207,72348,rio de janeiro,MG
+cust_01208,person_01208,29188,recife,SP
+cust_01209,person_01209,96356,curitiba,RJ
+cust_01210,person_01210,62712,sao paulo,SP
+cust_01211,person_01211,78417,recife,RJ
+cust_01212,person_01212,46612,rio de janeiro,MG
+cust_01213,person_01213,86812,curitiba,SP
+cust_01214,person_01214,8343,salvador,PR
+cust_01215,person_01215,12296,salvador,SP
+cust_01216,person_01216,51204,salvador,MG
+cust_01217,person_01217,73508,belo horizonte,MG
+cust_01218,person_01218,81111,curitiba,MG
+cust_01219,person_01219,44568,rio de janeiro,MG
+cust_01220,person_01220,65316,salvador,BA
+cust_01221,person_01221,55756,belo horizonte,RJ
+cust_01222,person_01222,96189,recife,PR
+cust_01223,person_01223,65755,belo horizonte,MG
+cust_01224,person_01224,42267,recife,SP
+cust_01225,person_01225,97010,rio de janeiro,SP
+cust_01226,person_01226,11617,recife,RJ
+cust_01227,person_01227,98472,sao paulo,SP
+cust_01228,person_01228,16247,sao paulo,SP
+cust_01229,person_01229,29534,belo horizonte,SP
+cust_01230,person_01230,82324,belo horizonte,MG
+cust_01231,person_01231,73640,recife,SP
+cust_01232,person_01232,97064,belo horizonte,PR
+cust_01233,person_01233,75247,sao paulo,RJ
+cust_01234,person_01234,64063,rio de janeiro,MG
+cust_01235,person_01235,35302,belo horizonte,SP
+cust_01236,person_01236,1466,curitiba,RJ
+cust_01237,person_01237,13262,curitiba,SP
+cust_01238,person_01238,30479,rio de janeiro,MG
+cust_01239,person_01239,5053,curitiba,SP
+cust_01240,person_01240,51309,curitiba,BA
+cust_01241,person_01241,77956,recife,SP
+cust_01242,person_01242,96361,curitiba,RJ
+cust_01243,person_01243,49479,recife,SP
+cust_01244,person_01244,87624,rio de janeiro,MG
+cust_01245,person_01245,98567,recife,RJ
+cust_01246,person_01246,86122,sao paulo,SP
+cust_01247,person_01247,47031,sao paulo,SP
+cust_01248,person_01248,33200,salvador,SP
+cust_01249,person_01249,97812,belo horizonte,SP
+cust_01250,person_01250,24949,curitiba,BA
+cust_01251,person_01251,41745,curitiba,SP
+cust_01252,person_01252,8328,recife,SP
+cust_01253,person_01253,79573,rio de janeiro,BA
+cust_01254,person_01254,65333,rio de janeiro,SP
+cust_01255,person_01255,9397,sao paulo,SP
+cust_01256,person_01256,22970,salvador,MG
+cust_01257,person_01257,55990,rio de janeiro,PE
+cust_01258,person_01258,54500,curitiba,MG
+cust_01259,person_01259,80403,belo horizonte,RJ
+cust_01260,person_01260,27343,sao paulo,BA
+cust_01261,person_01261,92544,belo horizonte,SP
+cust_01262,person_01262,45002,sao paulo,BA
+cust_01263,person_01263,82434,rio de janeiro,PE
+cust_01264,person_01264,24599,sao paulo,BA
+cust_01265,person_01265,4660,recife,SP
+cust_01266,person_01266,6450,curitiba,SP
+cust_01267,person_01267,37897,salvador,MG
+cust_01268,person_01268,95361,belo horizonte,RJ
+cust_01269,person_01269,5821,rio de janeiro,RJ
+cust_01270,person_01270,37528,curitiba,BA
+cust_01271,person_01271,11818,salvador,MG
+cust_01272,person_01272,93223,curitiba,SP
+cust_01273,person_01273,67854,sao paulo,SP
+cust_01274,person_01274,76505,rio de janeiro,SP
+cust_01275,person_01275,71611,salvador,SP
+cust_01276,person_01276,66044,curitiba,SP
+cust_01277,person_01277,77597,salvador,PR
+cust_01278,person_01278,1804,curitiba,MG
+cust_01279,person_01279,86679,sao paulo,RJ
+cust_01280,person_01280,74245,salvador,SP
+cust_01281,person_01281,74202,recife,MG
+cust_01282,person_01282,39949,recife,PR
+cust_01283,person_01283,80285,salvador,PE
+cust_01284,person_01284,38799,rio de janeiro,RJ
+cust_01285,person_01285,5847,salvador,PR
+cust_01286,person_01286,90873,rio de janeiro,RJ
+cust_01287,person_01287,24218,salvador,RJ
+cust_01288,person_01288,11088,rio de janeiro,PE
+cust_01289,person_01289,62567,curitiba,SP
+cust_01290,person_01290,24131,recife,SP
+cust_01291,person_01291,85953,sao paulo,SP
+cust_01292,person_01292,44930,sao paulo,RJ
+cust_01293,person_01293,1445,salvador,RJ
+cust_01294,person_01294,95219,sao paulo,MG
+cust_01295,person_01295,51947,curitiba,RJ
+cust_01296,person_01296,27034,salvador,SP
+cust_01297,person_01297,68050,curitiba,PE
+cust_01298,person_01298,53529,belo horizonte,SP
+cust_01299,person_01299,3931,belo horizonte,BA
+cust_01300,person_01300,76204,curitiba,SP
+cust_01301,person_01301,40733,curitiba,RJ
+cust_01302,person_01302,70281,curitiba,RJ
+cust_01303,person_01303,89666,sao paulo,PR
+cust_01304,person_01304,61450,curitiba,SP
+cust_01305,person_01305,67488,recife,PE
+cust_01306,person_01306,26210,recife,RJ
+cust_01307,person_01307,24527,sao paulo,RJ
+cust_01308,person_01308,42084,recife,RJ
+cust_01309,person_01309,85424,recife,SP
+cust_01310,person_01310,52894,rio de janeiro,RJ
+cust_01311,person_01311,35454,salvador,SP
+cust_01312,person_01312,78180,curitiba,SP
+cust_01313,person_01313,85480,belo horizonte,MG
+cust_01314,person_01314,90349,recife,RJ
+cust_01315,person_01315,30595,curitiba,SP
+cust_01316,person_01316,71253,curitiba,SP
+cust_01317,person_01317,59441,rio de janeiro,SP
+cust_01318,person_01318,45447,salvador,SP
+cust_01319,person_01319,40296,salvador,MG
+cust_01320,person_01320,12340,sao paulo,SP
+cust_01321,person_01321,28207,recife,PE
+cust_01322,person_01322,55416,sao paulo,SP
+cust_01323,person_01323,88768,belo horizonte,SP
+cust_01324,person_01324,86766,salvador,PE
+cust_01325,person_01325,19571,rio de janeiro,SP
+cust_01326,person_01326,68252,belo horizonte,RJ
+cust_01327,person_01327,9396,rio de janeiro,BA
+cust_01328,person_01328,67825,recife,BA
+cust_01329,person_01329,34850,belo horizonte,MG
+cust_01330,person_01330,45534,curitiba,SP
+cust_01331,person_01331,72045,salvador,MG
+cust_01332,person_01332,43063,curitiba,BA
+cust_01333,person_01333,80934,recife,BA
+cust_01334,person_01334,53823,sao paulo,SP
+cust_01335,person_01335,99874,rio de janeiro,SP
+cust_01336,person_01336,64185,salvador,SP
+cust_01337,person_01337,30339,salvador,SP
+cust_01338,person_01338,77752,curitiba,MG
+cust_01339,person_01339,41385,belo horizonte,SP
+cust_01340,person_01340,53882,rio de janeiro,SP
+cust_01341,person_01341,14545,salvador,SP
+cust_01342,person_01342,12814,recife,RJ
+cust_01343,person_01343,57911,rio de janeiro,SP
+cust_01344,person_01344,19482,curitiba,RJ
+cust_01345,person_01345,99759,curitiba,SP
+cust_01346,person_01346,85710,belo horizonte,BA
+cust_01347,person_01347,70386,salvador,SP
+cust_01348,person_01348,73734,sao paulo,RJ
+cust_01349,person_01349,59925,rio de janeiro,SP
+cust_01350,person_01350,6968,sao paulo,SP
+cust_01351,person_01351,39844,recife,SP
+cust_01352,person_01352,50083,curitiba,SP
+cust_01353,person_01353,91613,salvador,SP
+cust_01354,person_01354,22729,curitiba,RJ
+cust_01355,person_01355,50194,sao paulo,MG
+cust_01356,person_01356,35062,belo horizonte,SP
+cust_01357,person_01357,14302,sao paulo,RJ
+cust_01358,person_01358,11198,recife,RJ
+cust_01359,person_01359,37172,recife,SP
+cust_01360,person_01360,9159,salvador,SP
+cust_01361,person_01361,7649,belo horizonte,SP
+cust_01362,person_01362,35735,rio de janeiro,SP
+cust_01363,person_01363,20995,sao paulo,RJ
+cust_01364,person_01364,55925,belo horizonte,BA
+cust_01365,person_01365,2749,belo horizonte,BA
+cust_01366,person_01366,30879,recife,BA
+cust_01367,person_01367,45874,recife,RJ
+cust_01368,person_01368,96350,sao paulo,SP
+cust_01369,person_01369,63818,rio de janeiro,SP
+cust_01370,person_01370,88190,curitiba,SP
+cust_01371,person_01371,34985,belo horizonte,SP
+cust_01372,person_01372,45520,sao paulo,SP
+cust_01373,person_01373,42617,salvador,RJ
+cust_01374,person_01374,88851,recife,SP
+cust_01375,person_01375,95960,curitiba,SP
+cust_01376,person_01376,96270,rio de janeiro,MG
+cust_01377,person_01377,75443,salvador,SP
+cust_01378,person_01378,50807,sao paulo,PE
+cust_01379,person_01379,54544,belo horizonte,SP
+cust_01380,person_01380,98069,recife,RJ
+cust_01381,person_01381,29169,salvador,SP
+cust_01382,person_01382,35323,rio de janeiro,RJ
+cust_01383,person_01383,89801,curitiba,SP
+cust_01384,person_01384,39245,rio de janeiro,SP
+cust_01385,person_01385,24274,sao paulo,MG
+cust_01386,person_01386,56485,belo horizonte,SP
+cust_01387,person_01387,33208,salvador,SP
+cust_01388,person_01388,89195,recife,BA
+cust_01389,person_01389,90996,belo horizonte,SP
+cust_01390,person_01390,31294,rio de janeiro,RJ
+cust_01391,person_01391,53424,sao paulo,RJ
+cust_01392,person_01392,98414,rio de janeiro,SP
+cust_01393,person_01393,74488,sao paulo,RJ
+cust_01394,person_01394,22346,rio de janeiro,SP
+cust_01395,person_01395,59483,recife,MG
+cust_01396,person_01396,62368,sao paulo,SP
+cust_01397,person_01397,65689,sao paulo,SP
+cust_01398,person_01398,3476,curitiba,SP
+cust_01399,person_01399,30638,rio de janeiro,PE
+cust_01400,person_01400,85605,belo horizonte,PR
+cust_01401,person_01401,24895,sao paulo,BA
+cust_01402,person_01402,30669,rio de janeiro,MG
+cust_01403,person_01403,32926,belo horizonte,MG
+cust_01404,person_01404,18561,recife,RJ
+cust_01405,person_01405,16388,belo horizonte,PE
+cust_01406,person_01406,35354,curitiba,RJ
+cust_01407,person_01407,87556,curitiba,SP
+cust_01408,person_01408,1151,rio de janeiro,MG
+cust_01409,person_01409,29041,rio de janeiro,RJ
+cust_01410,person_01410,7002,belo horizonte,SP
+cust_01411,person_01411,56586,sao paulo,SP
+cust_01412,person_01412,25809,recife,SP
+cust_01413,person_01413,79404,curitiba,PE
+cust_01414,person_01414,58916,rio de janeiro,SP
+cust_01415,person_01415,78597,belo horizonte,PR
+cust_01416,person_01416,63855,rio de janeiro,RJ
+cust_01417,person_01417,44399,curitiba,PR
+cust_01418,person_01418,86234,recife,SP
+cust_01419,person_01419,48148,sao paulo,BA
+cust_01420,person_01420,95042,belo horizonte,RJ
+cust_01421,person_01421,99474,sao paulo,SP
+cust_01422,person_01422,59312,belo horizonte,SP
+cust_01423,person_01423,67784,rio de janeiro,SP
+cust_01424,person_01424,26310,belo horizonte,SP
+cust_01425,person_01425,81648,belo horizonte,MG
+cust_01426,person_01426,67486,rio de janeiro,BA
+cust_01427,person_01427,90351,belo horizonte,MG
+cust_01428,person_01428,27433,recife,RJ
+cust_01429,person_01429,78970,recife,RJ
+cust_01430,person_01430,47556,sao paulo,PR
+cust_01431,person_01431,19332,belo horizonte,PE
+cust_01432,person_01432,17948,salvador,SP
+cust_01433,person_01433,56654,curitiba,BA
+cust_01434,person_01434,32625,rio de janeiro,SP
+cust_01435,person_01435,11087,curitiba,PR
+cust_01436,person_01436,43287,sao paulo,BA
+cust_01437,person_01437,65638,sao paulo,MG
+cust_01438,person_01438,32575,curitiba,SP
+cust_01439,person_01439,95578,curitiba,RJ
+cust_01440,person_01440,78174,recife,SP
+cust_01441,person_01441,51759,belo horizonte,PR
+cust_01442,person_01442,93529,salvador,SP
+cust_01443,person_01443,43863,belo horizonte,MG
+cust_01444,person_01444,14827,recife,PE
+cust_01445,person_01445,4548,sao paulo,SP
+cust_01446,person_01446,93863,sao paulo,SP
+cust_01447,person_01447,96016,recife,MG
+cust_01448,person_01448,74185,salvador,SP
+cust_01449,person_01449,11197,salvador,SP
+cust_01450,person_01450,30071,rio de janeiro,SP
+cust_01451,person_01451,5066,sao paulo,SP
+cust_01452,person_01452,6073,salvador,MG
+cust_01453,person_01453,25360,curitiba,RJ
+cust_01454,person_01454,57641,rio de janeiro,SP
+cust_01455,person_01455,7487,recife,RJ
+cust_01456,person_01456,98474,salvador,SP
+cust_01457,person_01457,46056,rio de janeiro,SP
+cust_01458,person_01458,27120,recife,MG
+cust_01459,person_01459,52092,recife,SP
+cust_01460,person_01460,79224,curitiba,RJ
+cust_01461,person_01461,31944,curitiba,BA
+cust_01462,person_01462,5703,rio de janeiro,RJ
+cust_01463,person_01463,6045,salvador,MG
+cust_01464,person_01464,85345,salvador,SP
+cust_01465,person_01465,12048,salvador,SP
+cust_01466,person_01466,63920,recife,SP
+cust_01467,person_01467,39065,sao paulo,PR
+cust_01468,person_01468,77973,belo horizonte,PE
+cust_01469,person_01469,6992,belo horizonte,SP
+cust_01470,person_01470,89880,salvador,SP
+cust_01471,person_01471,70120,curitiba,SP
+cust_01472,person_01472,45478,curitiba,MG
+cust_01473,person_01473,21494,sao paulo,MG
+cust_01474,person_01474,97736,recife,MG
+cust_01475,person_01475,30904,belo horizonte,PE
+cust_01476,person_01476,49560,sao paulo,SP
+cust_01477,person_01477,40018,salvador,MG
+cust_01478,person_01478,23824,rio de janeiro,RJ
+cust_01479,person_01479,42243,sao paulo,SP
+cust_01480,person_01480,15996,sao paulo,PE
+cust_01481,person_01481,1164,belo horizonte,SP
+cust_01482,person_01482,29709,sao paulo,MG
+cust_01483,person_01483,12094,salvador,MG
+cust_01484,person_01484,42062,curitiba,PE
+cust_01485,person_01485,86412,rio de janeiro,RJ
+cust_01486,person_01486,17094,sao paulo,SP
+cust_01487,person_01487,1122,belo horizonte,PR
+cust_01488,person_01488,11998,sao paulo,PR
+cust_01489,person_01489,51308,salvador,RJ
+cust_01490,person_01490,28208,rio de janeiro,PR
+cust_01491,person_01491,49460,belo horizonte,SP
+cust_01492,person_01492,3895,sao paulo,RJ
+cust_01493,person_01493,33975,sao paulo,PE
+cust_01494,person_01494,41602,rio de janeiro,SP
+cust_01495,person_01495,43700,sao paulo,RJ
+cust_01496,person_01496,55564,recife,BA
+cust_01497,person_01497,78276,salvador,PR
+cust_01498,person_01498,47255,salvador,PE
+cust_01499,person_01499,84278,rio de janeiro,SP
+cust_01500,person_01500,53443,recife,BA
+cust_01501,person_01501,26774,curitiba,SP
+cust_01502,person_01502,23672,sao paulo,RJ
+cust_01503,person_01503,32926,sao paulo,RJ
+cust_01504,person_01504,60148,curitiba,PR
+cust_01505,person_01505,25005,belo horizonte,PE
+cust_01506,person_01506,91502,sao paulo,PR
+cust_01507,person_01507,48505,salvador,MG
+cust_01508,person_01508,86463,recife,RJ
+cust_01509,person_01509,68641,curitiba,RJ
+cust_01510,person_01510,34001,salvador,RJ
+cust_01511,person_01511,23596,salvador,SP
+cust_01512,person_01512,74649,salvador,RJ
+cust_01513,person_01513,33742,rio de janeiro,PE
+cust_01514,person_01514,25439,salvador,MG
+cust_01515,person_01515,93107,curitiba,PR
+cust_01516,person_01516,48779,recife,SP
+cust_01517,person_01517,5808,salvador,RJ
+cust_01518,person_01518,49981,sao paulo,SP
+cust_01519,person_01519,46615,belo horizonte,SP
+cust_01520,person_01520,86532,sao paulo,RJ
+cust_01521,person_01521,71443,rio de janeiro,SP
+cust_01522,person_01522,19944,belo horizonte,SP
+cust_01523,person_01523,15894,salvador,MG
+cust_01524,person_01524,60755,salvador,RJ
+cust_01525,person_01525,5689,belo horizonte,SP
+cust_01526,person_01526,32582,rio de janeiro,SP
+cust_01527,person_01527,14682,curitiba,RJ
+cust_01528,person_01528,3035,salvador,RJ
+cust_01529,person_01529,91962,salvador,RJ
+cust_01530,person_01530,9892,rio de janeiro,RJ
+cust_01531,person_01531,1916,rio de janeiro,SP
+cust_01532,person_01532,93355,recife,PE
+cust_01533,person_01533,19643,rio de janeiro,SP
+cust_01534,person_01534,81838,rio de janeiro,RJ
+cust_01535,person_01535,4097,sao paulo,SP
+cust_01536,person_01536,16201,belo horizonte,RJ
+cust_01537,person_01537,11952,belo horizonte,SP
+cust_01538,person_01538,70919,curitiba,PE
+cust_01539,person_01539,62394,rio de janeiro,SP
+cust_01540,person_01540,48074,recife,MG
+cust_01541,person_01541,24922,recife,SP
+cust_01542,person_01542,9797,belo horizonte,SP
+cust_01543,person_01543,57351,rio de janeiro,SP
+cust_01544,person_01544,23840,curitiba,RJ
+cust_01545,person_01545,59428,recife,RJ
+cust_01546,person_01546,69058,belo horizonte,BA
+cust_01547,person_01547,85093,rio de janeiro,MG
+cust_01548,person_01548,49904,curitiba,BA
+cust_01549,person_01549,1469,belo horizonte,SP
+cust_01550,person_01550,28785,belo horizonte,PR
+cust_01551,person_01551,85482,belo horizonte,RJ
+cust_01552,person_01552,53791,rio de janeiro,MG
+cust_01553,person_01553,62292,recife,BA
+cust_01554,person_01554,46324,belo horizonte,MG
+cust_01555,person_01555,17111,belo horizonte,PE
+cust_01556,person_01556,89772,curitiba,MG
+cust_01557,person_01557,77520,belo horizonte,SP
+cust_01558,person_01558,99522,sao paulo,MG
+cust_01559,person_01559,85692,salvador,RJ
+cust_01560,person_01560,29821,sao paulo,PE
+cust_01561,person_01561,26171,curitiba,PR
+cust_01562,person_01562,25598,rio de janeiro,SP
+cust_01563,person_01563,91959,rio de janeiro,SP
+cust_01564,person_01564,56136,sao paulo,SP
+cust_01565,person_01565,45990,salvador,RJ
+cust_01566,person_01566,96856,belo horizonte,SP
+cust_01567,person_01567,60738,belo horizonte,MG
+cust_01568,person_01568,91032,recife,RJ
+cust_01569,person_01569,98479,sao paulo,PE
+cust_01570,person_01570,8865,curitiba,SP
+cust_01571,person_01571,36791,belo horizonte,RJ
+cust_01572,person_01572,73679,curitiba,SP
+cust_01573,person_01573,81501,sao paulo,PE
+cust_01574,person_01574,15699,salvador,SP
+cust_01575,person_01575,32521,rio de janeiro,SP
+cust_01576,person_01576,55268,recife,SP
+cust_01577,person_01577,80121,recife,PR
+cust_01578,person_01578,12183,belo horizonte,SP
+cust_01579,person_01579,60472,sao paulo,MG
+cust_01580,person_01580,30347,rio de janeiro,PR
+cust_01581,person_01581,22418,recife,PR
+cust_01582,person_01582,52023,salvador,SP
+cust_01583,person_01583,41988,salvador,SP
+cust_01584,person_01584,63934,rio de janeiro,RJ
+cust_01585,person_01585,32445,curitiba,SP
+cust_01586,person_01586,82503,sao paulo,MG
+cust_01587,person_01587,8732,recife,SP
+cust_01588,person_01588,86325,belo horizonte,RJ
+cust_01589,person_01589,3953,recife,SP
+cust_01590,person_01590,73852,recife,RJ
+cust_01591,person_01591,35301,salvador,SP
+cust_01592,person_01592,38949,belo horizonte,MG
+cust_01593,person_01593,2884,belo horizonte,SP
+cust_01594,person_01594,70507,curitiba,BA
+cust_01595,person_01595,17383,sao paulo,MG
+cust_01596,person_01596,66255,sao paulo,SP
+cust_01597,person_01597,72792,curitiba,SP
+cust_01598,person_01598,84677,recife,SP
+cust_01599,person_01599,71100,curitiba,SP
+cust_01600,person_01600,30848,recife,SP
+cust_01601,person_01601,74118,rio de janeiro,PE
+cust_01602,person_01602,82768,belo horizonte,MG
+cust_01603,person_01603,32397,curitiba,SP
+cust_01604,person_01604,13293,belo horizonte,RJ
+cust_01605,person_01605,89111,sao paulo,SP
+cust_01606,person_01606,15645,sao paulo,BA
+cust_01607,person_01607,59788,salvador,SP
+cust_01608,person_01608,24391,curitiba,PR
+cust_01609,person_01609,13476,rio de janeiro,PR
+cust_01610,person_01610,77864,rio de janeiro,SP
+cust_01611,person_01611,15228,sao paulo,SP
+cust_01612,person_01612,67351,salvador,SP
+cust_01613,person_01613,69615,sao paulo,PE
+cust_01614,person_01614,6962,recife,RJ
+cust_01615,person_01615,18121,rio de janeiro,MG
+cust_01616,person_01616,79641,belo horizonte,PR
+cust_01617,person_01617,51221,rio de janeiro,PR
+cust_01618,person_01618,13013,recife,RJ
+cust_01619,person_01619,99184,sao paulo,RJ
+cust_01620,person_01620,27233,belo horizonte,MG
+cust_01621,person_01621,1396,rio de janeiro,SP
+cust_01622,person_01622,92491,rio de janeiro,PE
+cust_01623,person_01623,2641,rio de janeiro,SP
+cust_01624,person_01624,55781,salvador,SP
+cust_01625,person_01625,99314,belo horizonte,PR
+cust_01626,person_01626,58202,belo horizonte,SP
+cust_01627,person_01627,58878,belo horizonte,SP
+cust_01628,person_01628,39428,salvador,SP
+cust_01629,person_01629,13563,belo horizonte,RJ
+cust_01630,person_01630,57695,belo horizonte,PE
+cust_01631,person_01631,89832,rio de janeiro,SP
+cust_01632,person_01632,10019,rio de janeiro,SP
+cust_01633,person_01633,88156,sao paulo,RJ
+cust_01634,person_01634,42089,curitiba,BA
+cust_01635,person_01635,54083,sao paulo,SP
+cust_01636,person_01636,17374,rio de janeiro,BA
+cust_01637,person_01637,62556,rio de janeiro,PE
+cust_01638,person_01638,19052,rio de janeiro,SP
+cust_01639,person_01639,28045,recife,PR
+cust_01640,person_01640,72438,curitiba,MG
+cust_01641,person_01641,6001,salvador,RJ
+cust_01642,person_01642,45270,belo horizonte,RJ
+cust_01643,person_01643,59861,salvador,PR
+cust_01644,person_01644,14070,sao paulo,PR
+cust_01645,person_01645,30180,curitiba,PR
+cust_01646,person_01646,35006,recife,BA
+cust_01647,person_01647,66697,curitiba,RJ
+cust_01648,person_01648,97693,salvador,PR
+cust_01649,person_01649,83787,rio de janeiro,PE
+cust_01650,person_01650,19786,sao paulo,SP
+cust_01651,person_01651,2797,recife,SP
+cust_01652,person_01652,6139,sao paulo,SP
+cust_01653,person_01653,59975,recife,PE
+cust_01654,person_01654,16469,recife,SP
+cust_01655,person_01655,23896,salvador,MG
+cust_01656,person_01656,84890,belo horizonte,SP
+cust_01657,person_01657,87514,salvador,SP
+cust_01658,person_01658,84063,rio de janeiro,MG
+cust_01659,person_01659,26112,belo horizonte,SP
+cust_01660,person_01660,62348,sao paulo,PE
+cust_01661,person_01661,61465,recife,SP
+cust_01662,person_01662,19339,recife,PE
+cust_01663,person_01663,55799,recife,SP
+cust_01664,person_01664,52999,recife,BA
+cust_01665,person_01665,40220,rio de janeiro,MG
+cust_01666,person_01666,75413,sao paulo,SP
+cust_01667,person_01667,68083,salvador,SP
+cust_01668,person_01668,53732,belo horizonte,SP
+cust_01669,person_01669,72850,sao paulo,RJ
+cust_01670,person_01670,76546,salvador,PR
+cust_01671,person_01671,57126,salvador,SP
+cust_01672,person_01672,27499,belo horizonte,RJ
+cust_01673,person_01673,76083,recife,RJ
+cust_01674,person_01674,72043,sao paulo,RJ
+cust_01675,person_01675,98357,sao paulo,MG
+cust_01676,person_01676,15828,rio de janeiro,RJ
+cust_01677,person_01677,42507,curitiba,MG
+cust_01678,person_01678,92497,sao paulo,BA
+cust_01679,person_01679,51943,sao paulo,SP
+cust_01680,person_01680,94318,recife,SP
+cust_01681,person_01681,2234,recife,SP
+cust_01682,person_01682,4481,recife,RJ
+cust_01683,person_01683,79806,recife,SP
+cust_01684,person_01684,36484,recife,BA
+cust_01685,person_01685,52502,curitiba,MG
+cust_01686,person_01686,43372,curitiba,RJ
+cust_01687,person_01687,41387,salvador,PR
+cust_01688,person_01688,94007,belo horizonte,SP
+cust_01689,person_01689,10313,sao paulo,PR
+cust_01690,person_01690,77448,recife,SP
+cust_01691,person_01691,89075,rio de janeiro,MG
+cust_01692,person_01692,66083,salvador,BA
+cust_01693,person_01693,40105,belo horizonte,PR
+cust_01694,person_01694,16841,salvador,PE
+cust_01695,person_01695,68574,sao paulo,SP
+cust_01696,person_01696,47410,curitiba,PR
+cust_01697,person_01697,15787,belo horizonte,RJ
+cust_01698,person_01698,36605,belo horizonte,MG
+cust_01699,person_01699,96192,rio de janeiro,SP
+cust_01700,person_01700,27272,salvador,SP
+cust_01701,person_01701,18665,belo horizonte,RJ
+cust_01702,person_01702,68514,salvador,SP
+cust_01703,person_01703,20754,belo horizonte,PR
+cust_01704,person_01704,92070,sao paulo,PE
+cust_01705,person_01705,86038,salvador,BA
+cust_01706,person_01706,98368,rio de janeiro,SP
+cust_01707,person_01707,91344,rio de janeiro,BA
+cust_01708,person_01708,25132,salvador,SP
+cust_01709,person_01709,22002,salvador,RJ
+cust_01710,person_01710,34920,salvador,PE
+cust_01711,person_01711,47509,belo horizonte,SP
+cust_01712,person_01712,88118,recife,SP
+cust_01713,person_01713,73615,rio de janeiro,SP
+cust_01714,person_01714,64798,recife,RJ
+cust_01715,person_01715,87957,curitiba,PR
+cust_01716,person_01716,64942,sao paulo,SP
+cust_01717,person_01717,38525,belo horizonte,SP
+cust_01718,person_01718,41886,belo horizonte,RJ
+cust_01719,person_01719,52184,rio de janeiro,SP
+cust_01720,person_01720,9788,belo horizonte,PR
+cust_01721,person_01721,74429,curitiba,BA
+cust_01722,person_01722,65624,sao paulo,PR
+cust_01723,person_01723,73381,sao paulo,PE
+cust_01724,person_01724,53859,recife,RJ
+cust_01725,person_01725,78512,belo horizonte,PE
+cust_01726,person_01726,95024,curitiba,SP
+cust_01727,person_01727,57422,curitiba,SP
+cust_01728,person_01728,44993,curitiba,MG
+cust_01729,person_01729,11356,belo horizonte,SP
+cust_01730,person_01730,78088,belo horizonte,PE
+cust_01731,person_01731,90492,recife,MG
+cust_01732,person_01732,70248,salvador,BA
+cust_01733,person_01733,86690,rio de janeiro,SP
+cust_01734,person_01734,86257,recife,RJ
+cust_01735,person_01735,80010,salvador,PR
+cust_01736,person_01736,50784,sao paulo,SP
+cust_01737,person_01737,10886,recife,RJ
+cust_01738,person_01738,1321,belo horizonte,MG
+cust_01739,person_01739,21235,salvador,BA
+cust_01740,person_01740,43671,curitiba,PR
+cust_01741,person_01741,74615,salvador,SP
+cust_01742,person_01742,46124,sao paulo,RJ
+cust_01743,person_01743,3290,sao paulo,RJ
+cust_01744,person_01744,21823,salvador,SP
+cust_01745,person_01745,97942,curitiba,RJ
+cust_01746,person_01746,98813,curitiba,SP
+cust_01747,person_01747,38336,rio de janeiro,SP
+cust_01748,person_01748,80692,rio de janeiro,RJ
+cust_01749,person_01749,72211,recife,SP
+cust_01750,person_01750,93194,rio de janeiro,MG
+cust_01751,person_01751,88868,curitiba,SP
+cust_01752,person_01752,63244,rio de janeiro,MG
+cust_01753,person_01753,40067,rio de janeiro,SP
+cust_01754,person_01754,63038,sao paulo,PE
+cust_01755,person_01755,32593,salvador,SP
+cust_01756,person_01756,35460,salvador,RJ
+cust_01757,person_01757,61264,sao paulo,SP
+cust_01758,person_01758,57567,belo horizonte,SP
+cust_01759,person_01759,58517,curitiba,RJ
+cust_01760,person_01760,39082,belo horizonte,PE
+cust_01761,person_01761,41504,recife,PE
+cust_01762,person_01762,2009,rio de janeiro,SP
+cust_01763,person_01763,60575,sao paulo,SP
+cust_01764,person_01764,58002,belo horizonte,MG
+cust_01765,person_01765,93601,curitiba,RJ
+cust_01766,person_01766,50923,rio de janeiro,SP
+cust_01767,person_01767,47295,recife,PR
+cust_01768,person_01768,7700,sao paulo,RJ
+cust_01769,person_01769,20477,sao paulo,MG
+cust_01770,person_01770,34465,curitiba,SP
+cust_01771,person_01771,38343,curitiba,RJ
+cust_01772,person_01772,36905,rio de janeiro,SP
+cust_01773,person_01773,40016,rio de janeiro,PR
+cust_01774,person_01774,77122,sao paulo,SP
+cust_01775,person_01775,13979,curitiba,PR
+cust_01776,person_01776,33893,belo horizonte,PR
+cust_01777,person_01777,17124,sao paulo,PR
+cust_01778,person_01778,31471,belo horizonte,SP
+cust_01779,person_01779,68770,salvador,SP
+cust_01780,person_01780,5629,rio de janeiro,RJ
+cust_01781,person_01781,34607,salvador,MG
+cust_01782,person_01782,3344,rio de janeiro,PE
+cust_01783,person_01783,95533,rio de janeiro,SP
+cust_01784,person_01784,72997,rio de janeiro,PE
+cust_01785,person_01785,25115,rio de janeiro,SP
+cust_01786,person_01786,20621,sao paulo,SP
+cust_01787,person_01787,10793,curitiba,SP
+cust_01788,person_01788,47814,belo horizonte,PR
+cust_01789,person_01789,75596,recife,SP
+cust_01790,person_01790,58836,belo horizonte,SP
+cust_01791,person_01791,88221,belo horizonte,PR
+cust_01792,person_01792,35037,belo horizonte,RJ
+cust_01793,person_01793,28532,sao paulo,SP
+cust_01794,person_01794,48326,recife,SP
+cust_01795,person_01795,21006,sao paulo,RJ
+cust_01796,person_01796,97587,recife,SP
+cust_01797,person_01797,19390,salvador,SP
+cust_01798,person_01798,48407,recife,MG
+cust_01799,person_01799,52678,belo horizonte,SP
+cust_01800,person_01800,6647,rio de janeiro,MG
+cust_01801,person_01801,47372,salvador,SP
+cust_01802,person_01802,46015,rio de janeiro,SP
+cust_01803,person_01803,26684,belo horizonte,SP
+cust_01804,person_01804,13668,recife,SP
+cust_01805,person_01805,5472,salvador,SP
+cust_01806,person_01806,1849,salvador,SP
+cust_01807,person_01807,48667,sao paulo,PE
+cust_01808,person_01808,9894,salvador,PE
+cust_01809,person_01809,95972,sao paulo,SP
+cust_01810,person_01810,25229,curitiba,RJ
+cust_01811,person_01811,65598,salvador,RJ
+cust_01812,person_01812,67674,curitiba,PR
+cust_01813,person_01813,50054,salvador,SP
+cust_01814,person_01814,88476,belo horizonte,SP
+cust_01815,person_01815,11958,rio de janeiro,SP
+cust_01816,person_01816,24168,rio de janeiro,SP
+cust_01817,person_01817,25990,belo horizonte,SP
+cust_01818,person_01818,14405,recife,PE
+cust_01819,person_01819,30182,belo horizonte,PE
+cust_01820,person_01820,31955,recife,SP
+cust_01821,person_01821,76714,belo horizonte,RJ
+cust_01822,person_01822,30860,rio de janeiro,SP
+cust_01823,person_01823,87793,rio de janeiro,RJ
+cust_01824,person_01824,77493,curitiba,RJ
+cust_01825,person_01825,90261,salvador,SP
+cust_01826,person_01826,11417,salvador,PE
+cust_01827,person_01827,98471,rio de janeiro,BA
+cust_01828,person_01828,61781,belo horizonte,MG
+cust_01829,person_01829,98253,recife,MG
+cust_01830,person_01830,36129,curitiba,RJ
+cust_01831,person_01831,95345,sao paulo,SP
+cust_01832,person_01832,59271,curitiba,SP
+cust_01833,person_01833,8110,sao paulo,RJ
+cust_01834,person_01834,41601,sao paulo,SP
+cust_01835,person_01835,14641,curitiba,PR
+cust_01836,person_01836,94185,sao paulo,RJ
+cust_01837,person_01837,31141,belo horizonte,SP
+cust_01838,person_01838,23013,curitiba,SP
+cust_01839,person_01839,55736,curitiba,BA
+cust_01840,person_01840,43090,belo horizonte,SP
+cust_01841,person_01841,10600,sao paulo,SP
+cust_01842,person_01842,81832,recife,SP
+cust_01843,person_01843,84733,salvador,MG
+cust_01844,person_01844,74552,salvador,BA
+cust_01845,person_01845,62058,recife,SP
+cust_01846,person_01846,40852,belo horizonte,PE
+cust_01847,person_01847,54693,salvador,SP
+cust_01848,person_01848,52578,belo horizonte,MG
+cust_01849,person_01849,17365,sao paulo,SP
+cust_01850,person_01850,9099,salvador,RJ
+cust_01851,person_01851,26072,rio de janeiro,MG
+cust_01852,person_01852,45978,salvador,RJ
+cust_01853,person_01853,16870,belo horizonte,SP
+cust_01854,person_01854,11559,salvador,PR
+cust_01855,person_01855,85340,curitiba,BA
+cust_01856,person_01856,38124,belo horizonte,RJ
+cust_01857,person_01857,58837,rio de janeiro,MG
+cust_01858,person_01858,52878,salvador,PR
+cust_01859,person_01859,73777,sao paulo,SP
+cust_01860,person_01860,74240,belo horizonte,PE
+cust_01861,person_01861,30306,belo horizonte,SP
+cust_01862,person_01862,84941,curitiba,PR
+cust_01863,person_01863,37753,rio de janeiro,SP
+cust_01864,person_01864,83684,curitiba,SP
+cust_01865,person_01865,41080,belo horizonte,RJ
+cust_01866,person_01866,11988,rio de janeiro,RJ
+cust_01867,person_01867,76240,rio de janeiro,PE
+cust_01868,person_01868,3985,recife,BA
+cust_01869,person_01869,77462,rio de janeiro,SP
+cust_01870,person_01870,5273,rio de janeiro,SP
+cust_01871,person_01871,21474,curitiba,SP
+cust_01872,person_01872,60732,rio de janeiro,RJ
+cust_01873,person_01873,94211,belo horizonte,RJ
+cust_01874,person_01874,41438,rio de janeiro,PE
+cust_01875,person_01875,12944,belo horizonte,PR
+cust_01876,person_01876,24057,recife,SP
+cust_01877,person_01877,89715,curitiba,RJ
+cust_01878,person_01878,72946,salvador,MG
+cust_01879,person_01879,10939,recife,RJ
+cust_01880,person_01880,39104,sao paulo,SP
+cust_01881,person_01881,27189,belo horizonte,SP
+cust_01882,person_01882,18605,rio de janeiro,SP
+cust_01883,person_01883,84800,curitiba,SP
+cust_01884,person_01884,62152,rio de janeiro,PR
+cust_01885,person_01885,18769,salvador,SP
+cust_01886,person_01886,65418,rio de janeiro,RJ
+cust_01887,person_01887,41942,curitiba,RJ
+cust_01888,person_01888,7086,sao paulo,PE
+cust_01889,person_01889,45535,salvador,SP
+cust_01890,person_01890,19337,salvador,SP
+cust_01891,person_01891,25280,recife,SP
+cust_01892,person_01892,88019,belo horizonte,RJ
+cust_01893,person_01893,71313,sao paulo,SP
+cust_01894,person_01894,14274,recife,PR
+cust_01895,person_01895,85281,belo horizonte,SP
+cust_01896,person_01896,57855,salvador,SP
+cust_01897,person_01897,87582,recife,SP
+cust_01898,person_01898,74959,curitiba,PR
+cust_01899,person_01899,34592,salvador,PE
+cust_01900,person_01900,53951,recife,PR
+cust_01901,person_01901,53553,belo horizonte,RJ
+cust_01902,person_01902,72273,sao paulo,MG
+cust_01903,person_01903,25591,sao paulo,MG
+cust_01904,person_01904,33975,belo horizonte,SP
+cust_01905,person_01905,25234,curitiba,RJ
+cust_01906,person_01906,30317,sao paulo,PR
+cust_01907,person_01907,16963,sao paulo,SP
+cust_01908,person_01908,4618,recife,MG
+cust_01909,person_01909,94060,recife,RJ
+cust_01910,person_01910,8357,sao paulo,RJ
+cust_01911,person_01911,88910,curitiba,SP
+cust_01912,person_01912,1304,sao paulo,MG
+cust_01913,person_01913,77957,recife,PE
+cust_01914,person_01914,33511,salvador,SP
+cust_01915,person_01915,52247,salvador,SP
+cust_01916,person_01916,28939,curitiba,SP
+cust_01917,person_01917,49569,curitiba,SP
+cust_01918,person_01918,45704,salvador,BA
+cust_01919,person_01919,53444,curitiba,RJ
+cust_01920,person_01920,39934,belo horizonte,SP
+cust_01921,person_01921,54119,recife,SP
+cust_01922,person_01922,82719,curitiba,BA
+cust_01923,person_01923,44021,salvador,SP
+cust_01924,person_01924,36775,curitiba,MG
+cust_01925,person_01925,14043,salvador,SP
+cust_01926,person_01926,36611,sao paulo,SP
+cust_01927,person_01927,13440,sao paulo,MG
+cust_01928,person_01928,19067,sao paulo,SP
+cust_01929,person_01929,95271,curitiba,MG
+cust_01930,person_01930,9851,recife,SP
+cust_01931,person_01931,48720,rio de janeiro,PR
+cust_01932,person_01932,83594,sao paulo,PR
+cust_01933,person_01933,95366,salvador,MG
+cust_01934,person_01934,15524,recife,SP
+cust_01935,person_01935,17193,curitiba,MG
+cust_01936,person_01936,37886,belo horizonte,BA
+cust_01937,person_01937,55886,belo horizonte,SP
+cust_01938,person_01938,96019,sao paulo,SP
+cust_01939,person_01939,21563,rio de janeiro,PR
+cust_01940,person_01940,17274,salvador,SP
+cust_01941,person_01941,26065,belo horizonte,MG
+cust_01942,person_01942,87556,recife,PR
+cust_01943,person_01943,3975,recife,SP
+cust_01944,person_01944,38632,rio de janeiro,RJ
+cust_01945,person_01945,12776,rio de janeiro,RJ
+cust_01946,person_01946,16550,recife,SP
+cust_01947,person_01947,91767,sao paulo,PE
+cust_01948,person_01948,1164,belo horizonte,SP
+cust_01949,person_01949,32831,salvador,SP
+cust_01950,person_01950,91626,recife,PE
+cust_01951,person_01951,61204,recife,SP
+cust_01952,person_01952,8103,sao paulo,PR
+cust_01953,person_01953,47035,rio de janeiro,SP
+cust_01954,person_01954,97122,rio de janeiro,RJ
+cust_01955,person_01955,40644,rio de janeiro,SP
+cust_01956,person_01956,53333,rio de janeiro,MG
+cust_01957,person_01957,53656,salvador,PR
+cust_01958,person_01958,66383,sao paulo,PE
+cust_01959,person_01959,19536,recife,BA
+cust_01960,person_01960,84127,curitiba,MG
+cust_01961,person_01961,98870,curitiba,PR
+cust_01962,person_01962,15112,rio de janeiro,RJ
+cust_01963,person_01963,82011,rio de janeiro,PE
+cust_01964,person_01964,81873,curitiba,MG
+cust_01965,person_01965,74419,rio de janeiro,PE
+cust_01966,person_01966,37716,recife,SP
+cust_01967,person_01967,47406,sao paulo,RJ
+cust_01968,person_01968,84081,sao paulo,MG
+cust_01969,person_01969,16134,recife,SP
+cust_01970,person_01970,83044,curitiba,SP
+cust_01971,person_01971,92144,sao paulo,BA
+cust_01972,person_01972,68504,salvador,RJ
+cust_01973,person_01973,34796,sao paulo,SP
+cust_01974,person_01974,56355,salvador,SP
+cust_01975,person_01975,5960,recife,SP
+cust_01976,person_01976,93247,salvador,MG
+cust_01977,person_01977,34897,salvador,BA
+cust_01978,person_01978,6652,rio de janeiro,BA
+cust_01979,person_01979,79650,recife,MG
+cust_01980,person_01980,66097,rio de janeiro,MG
+cust_01981,person_01981,62647,belo horizonte,SP
+cust_01982,person_01982,6355,rio de janeiro,PE
+cust_01983,person_01983,75332,belo horizonte,SP
+cust_01984,person_01984,64093,salvador,SP
+cust_01985,person_01985,79569,belo horizonte,BA
+cust_01986,person_01986,82904,sao paulo,PE
+cust_01987,person_01987,21983,rio de janeiro,SP
+cust_01988,person_01988,21853,recife,MG
+cust_01989,person_01989,92453,curitiba,RJ
+cust_01990,person_01990,53571,curitiba,SP
+cust_01991,person_01991,44360,belo horizonte,SP
+cust_01992,person_01992,29432,rio de janeiro,SP
+cust_01993,person_01993,64261,curitiba,RJ
+cust_01994,person_01994,75641,curitiba,RJ
+cust_01995,person_01995,1228,salvador,RJ
+cust_01996,person_01996,55710,curitiba,SP
+cust_01997,person_01997,99342,salvador,BA
+cust_01998,person_01998,28783,recife,MG
+cust_01999,person_01999,28808,sao paulo,PE
+cust_02000,person_02000,87934,belo horizonte,SP
+cust_02001,person_02001,7144,belo horizonte,MG
+cust_02002,person_02002,40354,sao paulo,PE
+cust_02003,person_02003,46367,rio de janeiro,SP
+cust_02004,person_02004,79989,recife,SP
+cust_02005,person_02005,13773,belo horizonte,SP
+cust_02006,person_02006,43971,sao paulo,SP
+cust_02007,person_02007,16080,rio de janeiro,RJ
+cust_02008,person_02008,78975,rio de janeiro,SP
+cust_02009,person_02009,63595,rio de janeiro,SP
+cust_02010,person_02010,50176,sao paulo,MG
+cust_02011,person_02011,39899,recife,SP
+cust_02012,person_02012,16164,recife,SP
+cust_02013,person_02013,92262,belo horizonte,MG
+cust_02014,person_02014,65117,curitiba,SP
+cust_02015,person_02015,32596,salvador,SP
+cust_02016,person_02016,41979,salvador,SP
+cust_02017,person_02017,72891,sao paulo,SP
+cust_02018,person_02018,72236,salvador,RJ
+cust_02019,person_02019,46648,sao paulo,SP
+cust_02020,person_02020,30986,sao paulo,SP
+cust_02021,person_02021,66334,belo horizonte,BA
+cust_02022,person_02022,66164,recife,PE
+cust_02023,person_02023,60369,sao paulo,SP
+cust_02024,person_02024,8212,rio de janeiro,SP
+cust_02025,person_02025,47805,rio de janeiro,RJ
+cust_02026,person_02026,61777,belo horizonte,PE
+cust_02027,person_02027,95055,salvador,PR
+cust_02028,person_02028,53030,rio de janeiro,SP
+cust_02029,person_02029,34928,rio de janeiro,SP
+cust_02030,person_02030,56022,sao paulo,SP
+cust_02031,person_02031,18546,rio de janeiro,PE
+cust_02032,person_02032,9978,sao paulo,PE
+cust_02033,person_02033,68130,curitiba,SP
+cust_02034,person_02034,98631,belo horizonte,RJ
+cust_02035,person_02035,84753,belo horizonte,SP
+cust_02036,person_02036,58781,recife,MG
+cust_02037,person_02037,4985,curitiba,PE
+cust_02038,person_02038,98808,sao paulo,RJ
+cust_02039,person_02039,45513,belo horizonte,SP
+cust_02040,person_02040,29676,rio de janeiro,RJ
+cust_02041,person_02041,89355,recife,SP
+cust_02042,person_02042,74893,rio de janeiro,PR
+cust_02043,person_02043,75211,sao paulo,SP
+cust_02044,person_02044,28497,recife,PE
+cust_02045,person_02045,99187,belo horizonte,SP
+cust_02046,person_02046,45833,sao paulo,SP
+cust_02047,person_02047,53609,recife,SP
+cust_02048,person_02048,75344,rio de janeiro,SP
+cust_02049,person_02049,66338,salvador,SP
+cust_02050,person_02050,18056,recife,MG
+cust_02051,person_02051,30945,belo horizonte,SP
+cust_02052,person_02052,36757,curitiba,SP
+cust_02053,person_02053,94805,curitiba,SP
+cust_02054,person_02054,71735,curitiba,SP
+cust_02055,person_02055,37266,sao paulo,PE
+cust_02056,person_02056,73736,rio de janeiro,BA
+cust_02057,person_02057,74111,rio de janeiro,SP
+cust_02058,person_02058,40027,recife,PR
+cust_02059,person_02059,40910,sao paulo,PR
+cust_02060,person_02060,89534,curitiba,BA
+cust_02061,person_02061,56619,recife,SP
+cust_02062,person_02062,15801,salvador,SP
+cust_02063,person_02063,72257,rio de janeiro,RJ
+cust_02064,person_02064,59366,sao paulo,PE
+cust_02065,person_02065,51383,recife,MG
+cust_02066,person_02066,72784,sao paulo,RJ
+cust_02067,person_02067,90800,sao paulo,SP
+cust_02068,person_02068,33712,salvador,MG
+cust_02069,person_02069,42510,salvador,PE
+cust_02070,person_02070,19759,recife,SP
+cust_02071,person_02071,65059,salvador,MG
+cust_02072,person_02072,40868,sao paulo,SP
+cust_02073,person_02073,34893,sao paulo,RJ
+cust_02074,person_02074,69955,rio de janeiro,RJ
+cust_02075,person_02075,41407,sao paulo,PR
+cust_02076,person_02076,46971,salvador,BA
+cust_02077,person_02077,44564,sao paulo,RJ
+cust_02078,person_02078,26595,curitiba,SP
+cust_02079,person_02079,13454,salvador,SP
+cust_02080,person_02080,82895,recife,SP
+cust_02081,person_02081,10080,rio de janeiro,SP
+cust_02082,person_02082,33162,belo horizonte,SP
+cust_02083,person_02083,67080,curitiba,RJ
+cust_02084,person_02084,13998,recife,SP
+cust_02085,person_02085,65895,belo horizonte,SP
+cust_02086,person_02086,73572,rio de janeiro,PR
+cust_02087,person_02087,66627,recife,SP
+cust_02088,person_02088,31197,salvador,MG
+cust_02089,person_02089,2956,belo horizonte,PE
+cust_02090,person_02090,88846,sao paulo,RJ
+cust_02091,person_02091,33327,curitiba,SP
+cust_02092,person_02092,80694,salvador,SP
+cust_02093,person_02093,20582,salvador,MG
+cust_02094,person_02094,17078,belo horizonte,RJ
+cust_02095,person_02095,78036,sao paulo,SP
+cust_02096,person_02096,94032,curitiba,RJ
+cust_02097,person_02097,86201,recife,RJ
+cust_02098,person_02098,75372,salvador,SP
+cust_02099,person_02099,25421,sao paulo,MG
+cust_02100,person_02100,91406,rio de janeiro,SP
+cust_02101,person_02101,67116,belo horizonte,SP
+cust_02102,person_02102,18044,sao paulo,PR
+cust_02103,person_02103,13806,salvador,SP
+cust_02104,person_02104,87244,sao paulo,MG
+cust_02105,person_02105,28239,curitiba,SP
+cust_02106,person_02106,76822,salvador,SP
+cust_02107,person_02107,14726,recife,PE
+cust_02108,person_02108,28773,recife,SP
+cust_02109,person_02109,29068,rio de janeiro,SP
+cust_02110,person_02110,28829,recife,PE
+cust_02111,person_02111,67798,belo horizonte,PR
+cust_02112,person_02112,91523,sao paulo,MG
+cust_02113,person_02113,91121,belo horizonte,SP
+cust_02114,person_02114,74412,belo horizonte,SP
+cust_02115,person_02115,21049,curitiba,MG
+cust_02116,person_02116,96096,rio de janeiro,SP
+cust_02117,person_02117,54665,belo horizonte,SP
+cust_02118,person_02118,55050,belo horizonte,PR
+cust_02119,person_02119,70437,rio de janeiro,SP
+cust_02120,person_02120,77139,recife,SP
+cust_02121,person_02121,95338,rio de janeiro,SP
+cust_02122,person_02122,58654,recife,RJ
+cust_02123,person_02123,61395,rio de janeiro,MG
+cust_02124,person_02124,74806,salvador,PE
+cust_02125,person_02125,26255,belo horizonte,SP
+cust_02126,person_02126,31463,sao paulo,SP
+cust_02127,person_02127,62921,sao paulo,RJ
+cust_02128,person_02128,7348,recife,SP
+cust_02129,person_02129,32728,salvador,RJ
+cust_02130,person_02130,72080,rio de janeiro,BA
+cust_02131,person_02131,97635,curitiba,RJ
+cust_02132,person_02132,52429,curitiba,SP
+cust_02133,person_02133,40567,sao paulo,BA
+cust_02134,person_02134,44596,belo horizonte,SP
+cust_02135,person_02135,68856,recife,BA
+cust_02136,person_02136,54902,salvador,RJ
+cust_02137,person_02137,3299,salvador,RJ
+cust_02138,person_02138,54384,sao paulo,BA
+cust_02139,person_02139,40605,rio de janeiro,RJ
+cust_02140,person_02140,70378,belo horizonte,RJ
+cust_02141,person_02141,87634,sao paulo,SP
+cust_02142,person_02142,96281,curitiba,MG
+cust_02143,person_02143,61411,sao paulo,RJ
+cust_02144,person_02144,36893,sao paulo,SP
+cust_02145,person_02145,44949,sao paulo,MG
+cust_02146,person_02146,18469,rio de janeiro,MG
+cust_02147,person_02147,93656,recife,SP
+cust_02148,person_02148,84883,rio de janeiro,SP
+cust_02149,person_02149,85543,salvador,RJ
+cust_02150,person_02150,33483,rio de janeiro,SP
+cust_02151,person_02151,32899,sao paulo,SP
+cust_02152,person_02152,85803,belo horizonte,RJ
+cust_02153,person_02153,54909,recife,SP
+cust_02154,person_02154,70760,sao paulo,SP
+cust_02155,person_02155,49492,sao paulo,MG
+cust_02156,person_02156,44833,salvador,SP
+cust_02157,person_02157,63587,curitiba,BA
+cust_02158,person_02158,81484,belo horizonte,PE
+cust_02159,person_02159,34076,recife,RJ
+cust_02160,person_02160,81104,salvador,BA
+cust_02161,person_02161,25176,belo horizonte,PE
+cust_02162,person_02162,40879,curitiba,SP
+cust_02163,person_02163,91353,sao paulo,PR
+cust_02164,person_02164,95489,rio de janeiro,SP
+cust_02165,person_02165,92462,curitiba,MG
+cust_02166,person_02166,32288,rio de janeiro,RJ
+cust_02167,person_02167,84488,salvador,SP
+cust_02168,person_02168,93671,salvador,SP
+cust_02169,person_02169,97841,rio de janeiro,BA
+cust_02170,person_02170,3069,belo horizonte,SP
+cust_02171,person_02171,74753,rio de janeiro,SP
+cust_02172,person_02172,99676,curitiba,SP
+cust_02173,person_02173,76701,sao paulo,RJ
+cust_02174,person_02174,24084,belo horizonte,PE
+cust_02175,person_02175,76495,curitiba,PR
+cust_02176,person_02176,11419,curitiba,RJ
+cust_02177,person_02177,48579,curitiba,SP
+cust_02178,person_02178,62995,rio de janeiro,SP
+cust_02179,person_02179,46188,recife,RJ
+cust_02180,person_02180,70282,recife,PR
+cust_02181,person_02181,24782,recife,MG
+cust_02182,person_02182,61015,belo horizonte,SP
+cust_02183,person_02183,64836,salvador,MG
+cust_02184,person_02184,63745,belo horizonte,RJ
+cust_02185,person_02185,29642,recife,RJ
+cust_02186,person_02186,31232,rio de janeiro,RJ
+cust_02187,person_02187,26522,rio de janeiro,MG
+cust_02188,person_02188,46715,curitiba,RJ
+cust_02189,person_02189,59009,curitiba,BA
+cust_02190,person_02190,36890,recife,RJ
+cust_02191,person_02191,41587,rio de janeiro,SP
+cust_02192,person_02192,29354,salvador,SP
+cust_02193,person_02193,22666,rio de janeiro,RJ
+cust_02194,person_02194,66085,curitiba,RJ
+cust_02195,person_02195,81788,salvador,RJ
+cust_02196,person_02196,29779,curitiba,MG
+cust_02197,person_02197,86195,recife,SP
+cust_02198,person_02198,57526,salvador,MG
+cust_02199,person_02199,17602,salvador,MG
+cust_02200,person_02200,37233,belo horizonte,SP
+cust_02201,person_02201,1743,belo horizonte,SP
+cust_02202,person_02202,4877,rio de janeiro,SP
+cust_02203,person_02203,34276,curitiba,SP
+cust_02204,person_02204,45991,salvador,PR
+cust_02205,person_02205,79952,belo horizonte,PE
+cust_02206,person_02206,14295,belo horizonte,MG
+cust_02207,person_02207,84077,sao paulo,SP
+cust_02208,person_02208,24217,belo horizonte,MG
+cust_02209,person_02209,14694,rio de janeiro,PR
+cust_02210,person_02210,70288,salvador,SP
+cust_02211,person_02211,77658,curitiba,PR
+cust_02212,person_02212,60885,sao paulo,SP
+cust_02213,person_02213,12454,sao paulo,SP
+cust_02214,person_02214,12419,salvador,SP
+cust_02215,person_02215,39615,salvador,SP
+cust_02216,person_02216,45608,recife,PE
+cust_02217,person_02217,99861,sao paulo,RJ
+cust_02218,person_02218,29360,sao paulo,SP
+cust_02219,person_02219,20066,rio de janeiro,RJ
+cust_02220,person_02220,94643,recife,SP
+cust_02221,person_02221,16242,recife,SP
+cust_02222,person_02222,3613,salvador,SP
+cust_02223,person_02223,42856,sao paulo,MG
+cust_02224,person_02224,40706,sao paulo,SP
+cust_02225,person_02225,62346,salvador,PR
+cust_02226,person_02226,87894,salvador,SP
+cust_02227,person_02227,93356,recife,PR
+cust_02228,person_02228,29673,sao paulo,PR
+cust_02229,person_02229,98100,sao paulo,SP
+cust_02230,person_02230,63632,sao paulo,SP
+cust_02231,person_02231,7894,recife,BA
+cust_02232,person_02232,93905,salvador,RJ
+cust_02233,person_02233,14661,curitiba,MG
+cust_02234,person_02234,59270,rio de janeiro,SP
+cust_02235,person_02235,79282,recife,SP
+cust_02236,person_02236,25694,sao paulo,RJ
+cust_02237,person_02237,27792,recife,PE
+cust_02238,person_02238,48141,salvador,SP
+cust_02239,person_02239,88599,recife,PR
+cust_02240,person_02240,23136,salvador,MG
+cust_02241,person_02241,66681,curitiba,SP
+cust_02242,person_02242,45806,belo horizonte,SP
+cust_02243,person_02243,12072,rio de janeiro,SP
+cust_02244,person_02244,71376,salvador,RJ
+cust_02245,person_02245,83419,recife,MG
+cust_02246,person_02246,57987,rio de janeiro,RJ
+cust_02247,person_02247,18459,salvador,SP
+cust_02248,person_02248,16416,sao paulo,MG
+cust_02249,person_02249,42925,curitiba,RJ
+cust_02250,person_02250,51134,rio de janeiro,RJ
+cust_02251,person_02251,55665,curitiba,RJ
+cust_02252,person_02252,25121,belo horizonte,SP
+cust_02253,person_02253,50575,belo horizonte,MG
+cust_02254,person_02254,30212,recife,SP
+cust_02255,person_02255,68929,recife,SP
+cust_02256,person_02256,79850,belo horizonte,SP
+cust_02257,person_02257,65615,salvador,MG
+cust_02258,person_02258,1123,belo horizonte,MG
+cust_02259,person_02259,99211,sao paulo,SP
+cust_02260,person_02260,3352,sao paulo,PE
+cust_02261,person_02261,99941,rio de janeiro,PE
+cust_02262,person_02262,4145,recife,SP
+cust_02263,person_02263,52128,curitiba,MG
+cust_02264,person_02264,11491,belo horizonte,SP
+cust_02265,person_02265,10424,belo horizonte,BA
+cust_02266,person_02266,68655,salvador,SP
+cust_02267,person_02267,73055,curitiba,SP
+cust_02268,person_02268,12705,sao paulo,RJ
+cust_02269,person_02269,97688,sao paulo,SP
+cust_02270,person_02270,32725,belo horizonte,MG
+cust_02271,person_02271,32513,belo horizonte,RJ
+cust_02272,person_02272,30400,salvador,SP
+cust_02273,person_02273,46659,curitiba,RJ
+cust_02274,person_02274,18605,recife,PE
+cust_02275,person_02275,43052,curitiba,PR
+cust_02276,person_02276,21787,belo horizonte,RJ
+cust_02277,person_02277,6090,curitiba,SP
+cust_02278,person_02278,37504,curitiba,SP
+cust_02279,person_02279,67553,recife,PE
+cust_02280,person_02280,76545,rio de janeiro,MG
+cust_02281,person_02281,35980,curitiba,RJ
+cust_02282,person_02282,33050,rio de janeiro,PE
+cust_02283,person_02283,78958,recife,SP
+cust_02284,person_02284,68436,recife,MG
+cust_02285,person_02285,83379,curitiba,SP
+cust_02286,person_02286,90703,salvador,SP
+cust_02287,person_02287,82301,curitiba,RJ
+cust_02288,person_02288,93711,sao paulo,SP
+cust_02289,person_02289,42249,curitiba,BA
+cust_02290,person_02290,40072,recife,SP
+cust_02291,person_02291,32832,sao paulo,PR
+cust_02292,person_02292,24286,sao paulo,PR
+cust_02293,person_02293,75132,rio de janeiro,MG
+cust_02294,person_02294,71729,salvador,BA
+cust_02295,person_02295,80336,curitiba,SP
+cust_02296,person_02296,17571,salvador,SP
+cust_02297,person_02297,49633,salvador,SP
+cust_02298,person_02298,22973,curitiba,SP
+cust_02299,person_02299,89409,recife,PE
+cust_02300,person_02300,27473,rio de janeiro,RJ
+cust_02301,person_02301,15246,sao paulo,SP
+cust_02302,person_02302,57415,belo horizonte,SP
+cust_02303,person_02303,88026,curitiba,RJ
+cust_02304,person_02304,91656,rio de janeiro,MG
+cust_02305,person_02305,10513,rio de janeiro,SP
+cust_02306,person_02306,33263,sao paulo,PR
+cust_02307,person_02307,16198,recife,MG
+cust_02308,person_02308,31478,salvador,PR
+cust_02309,person_02309,53849,recife,SP
+cust_02310,person_02310,28776,belo horizonte,MG
+cust_02311,person_02311,7684,curitiba,SP
+cust_02312,person_02312,51492,salvador,SP
+cust_02313,person_02313,6227,curitiba,MG
+cust_02314,person_02314,23442,rio de janeiro,MG
+cust_02315,person_02315,1051,belo horizonte,SP
+cust_02316,person_02316,9595,recife,PE
+cust_02317,person_02317,44194,belo horizonte,SP
+cust_02318,person_02318,85219,salvador,MG
+cust_02319,person_02319,77686,salvador,BA
+cust_02320,person_02320,10784,sao paulo,RJ
+cust_02321,person_02321,4448,recife,PR
+cust_02322,person_02322,34470,belo horizonte,MG
+cust_02323,person_02323,65572,curitiba,PR
+cust_02324,person_02324,74925,rio de janeiro,MG
+cust_02325,person_02325,82488,belo horizonte,MG
+cust_02326,person_02326,34877,rio de janeiro,SP
+cust_02327,person_02327,17631,sao paulo,PR
+cust_02328,person_02328,3608,recife,SP
+cust_02329,person_02329,15539,sao paulo,BA
+cust_02330,person_02330,7450,belo horizonte,SP
+cust_02331,person_02331,86218,rio de janeiro,SP
+cust_02332,person_02332,27572,sao paulo,PE
+cust_02333,person_02333,82488,belo horizonte,SP
+cust_02334,person_02334,55762,salvador,SP
+cust_02335,person_02335,54354,salvador,MG
+cust_02336,person_02336,46024,belo horizonte,SP
+cust_02337,person_02337,82099,curitiba,SP
+cust_02338,person_02338,5301,salvador,RJ
+cust_02339,person_02339,10182,rio de janeiro,SP
+cust_02340,person_02340,42914,salvador,SP
+cust_02341,person_02341,40053,sao paulo,SP
+cust_02342,person_02342,55013,rio de janeiro,SP
+cust_02343,person_02343,74041,belo horizonte,SP
+cust_02344,person_02344,59166,sao paulo,SP
+cust_02345,person_02345,26487,recife,MG
+cust_02346,person_02346,33401,salvador,MG
+cust_02347,person_02347,75479,belo horizonte,SP
+cust_02348,person_02348,20945,salvador,SP
+cust_02349,person_02349,50913,recife,PE
+cust_02350,person_02350,54339,recife,RJ
+cust_02351,person_02351,75275,recife,SP
+cust_02352,person_02352,71720,curitiba,RJ
+cust_02353,person_02353,47002,sao paulo,SP
+cust_02354,person_02354,31606,salvador,PR
+cust_02355,person_02355,37422,curitiba,PE
+cust_02356,person_02356,41747,salvador,PE
+cust_02357,person_02357,22699,salvador,SP
+cust_02358,person_02358,62914,rio de janeiro,SP
+cust_02359,person_02359,21629,belo horizonte,SP
+cust_02360,person_02360,65218,rio de janeiro,SP
+cust_02361,person_02361,75396,sao paulo,SP
+cust_02362,person_02362,96221,salvador,MG
+cust_02363,person_02363,12772,salvador,SP
+cust_02364,person_02364,76212,salvador,PE
+cust_02365,person_02365,9512,salvador,SP
+cust_02366,person_02366,34387,curitiba,SP
+cust_02367,person_02367,18452,curitiba,PE
+cust_02368,person_02368,17065,salvador,MG
+cust_02369,person_02369,18359,curitiba,SP
+cust_02370,person_02370,5349,curitiba,MG
+cust_02371,person_02371,82486,rio de janeiro,SP
+cust_02372,person_02372,7051,recife,SP
+cust_02373,person_02373,40451,recife,RJ
+cust_02374,person_02374,70216,recife,SP
+cust_02375,person_02375,99047,belo horizonte,MG
+cust_02376,person_02376,85515,rio de janeiro,SP
+cust_02377,person_02377,14583,sao paulo,MG
+cust_02378,person_02378,98785,curitiba,PR
+cust_02379,person_02379,65699,recife,SP
+cust_02380,person_02380,18777,recife,SP
+cust_02381,person_02381,45423,salvador,RJ
+cust_02382,person_02382,91869,belo horizonte,PR
+cust_02383,person_02383,39898,recife,MG
+cust_02384,person_02384,19179,recife,MG
+cust_02385,person_02385,87632,rio de janeiro,SP
+cust_02386,person_02386,95343,salvador,SP
+cust_02387,person_02387,97582,sao paulo,RJ
+cust_02388,person_02388,95614,curitiba,SP
+cust_02389,person_02389,87412,salvador,MG
+cust_02390,person_02390,45994,curitiba,SP
+cust_02391,person_02391,20037,salvador,SP
+cust_02392,person_02392,62097,sao paulo,RJ
+cust_02393,person_02393,22858,curitiba,RJ
+cust_02394,person_02394,47841,recife,MG
+cust_02395,person_02395,65950,curitiba,RJ
+cust_02396,person_02396,94710,salvador,PE
+cust_02397,person_02397,29618,belo horizonte,PE
+cust_02398,person_02398,25939,recife,PE
+cust_02399,person_02399,73737,belo horizonte,MG
+cust_02400,person_02400,1639,salvador,MG
+cust_02401,person_02401,57075,sao paulo,MG
+cust_02402,person_02402,74844,rio de janeiro,RJ
+cust_02403,person_02403,55539,sao paulo,SP
+cust_02404,person_02404,39011,recife,MG
+cust_02405,person_02405,83025,rio de janeiro,SP
+cust_02406,person_02406,37732,rio de janeiro,SP
+cust_02407,person_02407,71342,salvador,PE
+cust_02408,person_02408,46949,belo horizonte,SP
+cust_02409,person_02409,3631,sao paulo,RJ
+cust_02410,person_02410,53520,sao paulo,MG
+cust_02411,person_02411,5896,rio de janeiro,SP
+cust_02412,person_02412,93163,salvador,PE
+cust_02413,person_02413,60553,curitiba,SP
+cust_02414,person_02414,37830,salvador,PE
+cust_02415,person_02415,49132,rio de janeiro,PR
+cust_02416,person_02416,62298,belo horizonte,SP
+cust_02417,person_02417,26758,sao paulo,SP
+cust_02418,person_02418,29550,belo horizonte,SP
+cust_02419,person_02419,42446,curitiba,SP
+cust_02420,person_02420,26598,recife,SP
+cust_02421,person_02421,76032,belo horizonte,BA
+cust_02422,person_02422,11277,recife,SP
+cust_02423,person_02423,82833,curitiba,PE
+cust_02424,person_02424,35503,rio de janeiro,SP
+cust_02425,person_02425,56560,salvador,BA
+cust_02426,person_02426,16617,belo horizonte,SP
+cust_02427,person_02427,39151,sao paulo,RJ
+cust_02428,person_02428,75704,salvador,RJ
+cust_02429,person_02429,27798,salvador,SP
+cust_02430,person_02430,14095,sao paulo,PR
+cust_02431,person_02431,52669,salvador,SP
+cust_02432,person_02432,17086,salvador,RJ
+cust_02433,person_02433,32159,recife,RJ
+cust_02434,person_02434,45595,rio de janeiro,MG
+cust_02435,person_02435,56844,curitiba,SP
+cust_02436,person_02436,64297,curitiba,SP
+cust_02437,person_02437,67987,curitiba,SP
+cust_02438,person_02438,84583,curitiba,SP
+cust_02439,person_02439,7541,curitiba,SP
+cust_02440,person_02440,36869,curitiba,BA
+cust_02441,person_02441,1105,recife,RJ
+cust_02442,person_02442,1934,curitiba,MG
+cust_02443,person_02443,22015,sao paulo,SP
+cust_02444,person_02444,60215,sao paulo,SP
+cust_02445,person_02445,89555,salvador,RJ
+cust_02446,person_02446,77579,salvador,SP
+cust_02447,person_02447,64982,curitiba,SP
+cust_02448,person_02448,78037,rio de janeiro,RJ
+cust_02449,person_02449,18023,recife,RJ
+cust_02450,person_02450,84142,sao paulo,BA
+cust_02451,person_02451,89135,belo horizonte,SP
+cust_02452,person_02452,10410,rio de janeiro,RJ
+cust_02453,person_02453,47525,sao paulo,SP
+cust_02454,person_02454,83172,recife,SP
+cust_02455,person_02455,48132,curitiba,MG
+cust_02456,person_02456,84205,rio de janeiro,SP
+cust_02457,person_02457,93617,curitiba,RJ
+cust_02458,person_02458,47991,sao paulo,SP
+cust_02459,person_02459,6889,belo horizonte,SP
+cust_02460,person_02460,34664,curitiba,BA
+cust_02461,person_02461,22302,belo horizonte,SP
+cust_02462,person_02462,47936,recife,PR
+cust_02463,person_02463,58990,rio de janeiro,SP
+cust_02464,person_02464,46925,sao paulo,BA
+cust_02465,person_02465,20352,curitiba,SP
+cust_02466,person_02466,30815,salvador,SP
+cust_02467,person_02467,68272,belo horizonte,PR
+cust_02468,person_02468,3671,sao paulo,SP
+cust_02469,person_02469,22194,salvador,SP
+cust_02470,person_02470,89340,belo horizonte,BA
+cust_02471,person_02471,10816,rio de janeiro,RJ
+cust_02472,person_02472,42059,curitiba,MG
+cust_02473,person_02473,21491,rio de janeiro,MG
+cust_02474,person_02474,11360,salvador,PR
+cust_02475,person_02475,42850,rio de janeiro,PE
+cust_02476,person_02476,52622,curitiba,RJ
+cust_02477,person_02477,18437,curitiba,SP
+cust_02478,person_02478,8701,rio de janeiro,SP
+cust_02479,person_02479,14334,belo horizonte,MG
+cust_02480,person_02480,65502,sao paulo,PR
+cust_02481,person_02481,86167,curitiba,RJ
+cust_02482,person_02482,18848,recife,SP
+cust_02483,person_02483,32719,salvador,SP
+cust_02484,person_02484,35037,rio de janeiro,RJ
+cust_02485,person_02485,36714,rio de janeiro,PE
+cust_02486,person_02486,25185,curitiba,SP
+cust_02487,person_02487,6471,recife,MG
+cust_02488,person_02488,52989,salvador,PR
+cust_02489,person_02489,36379,sao paulo,BA
+cust_02490,person_02490,34883,rio de janeiro,SP
+cust_02491,person_02491,27215,rio de janeiro,BA
+cust_02492,person_02492,93003,rio de janeiro,MG
+cust_02493,person_02493,61437,belo horizonte,PR
+cust_02494,person_02494,42450,salvador,SP
+cust_02495,person_02495,21333,sao paulo,RJ
+cust_02496,person_02496,80310,recife,MG
+cust_02497,person_02497,88947,curitiba,SP
+cust_02498,person_02498,4199,curitiba,RJ
+cust_02499,person_02499,93036,recife,RJ
+cust_02500,person_02500,70241,sao paulo,RJ
+cust_02501,person_02501,10883,recife,SP
+cust_02502,person_02502,75561,rio de janeiro,RJ
+cust_02503,person_02503,11632,curitiba,SP
+cust_02504,person_02504,6035,recife,PE
+cust_02505,person_02505,12417,curitiba,BA
+cust_02506,person_02506,46522,rio de janeiro,SP
+cust_02507,person_02507,62336,belo horizonte,SP
+cust_02508,person_02508,41324,belo horizonte,SP
+cust_02509,person_02509,13074,sao paulo,RJ
+cust_02510,person_02510,20717,recife,PE
+cust_02511,person_02511,85384,sao paulo,RJ
+cust_02512,person_02512,96298,belo horizonte,SP
+cust_02513,person_02513,75672,curitiba,SP
+cust_02514,person_02514,11237,sao paulo,SP
+cust_02515,person_02515,82160,salvador,PE
+cust_02516,person_02516,69506,belo horizonte,MG
+cust_02517,person_02517,53079,sao paulo,RJ
+cust_02518,person_02518,15180,curitiba,SP
+cust_02519,person_02519,99670,curitiba,BA
+cust_02520,person_02520,44817,curitiba,SP
+cust_02521,person_02521,5373,recife,PE
+cust_02522,person_02522,21786,belo horizonte,PE
+cust_02523,person_02523,40724,recife,RJ
+cust_02524,person_02524,7170,belo horizonte,PE
+cust_02525,person_02525,33069,curitiba,SP
+cust_02526,person_02526,47371,sao paulo,MG
+cust_02527,person_02527,94914,curitiba,SP
+cust_02528,person_02528,9551,rio de janeiro,RJ
+cust_02529,person_02529,58108,recife,SP
+cust_02530,person_02530,91659,recife,SP
+cust_02531,person_02531,80812,salvador,SP
+cust_02532,person_02532,92568,salvador,SP
+cust_02533,person_02533,17863,sao paulo,RJ
+cust_02534,person_02534,80332,sao paulo,RJ
+cust_02535,person_02535,97883,salvador,SP
+cust_02536,person_02536,33276,belo horizonte,BA
+cust_02537,person_02537,50364,sao paulo,BA
+cust_02538,person_02538,53552,rio de janeiro,SP
+cust_02539,person_02539,49873,salvador,SP
+cust_02540,person_02540,29688,belo horizonte,MG
+cust_02541,person_02541,97116,sao paulo,PR
+cust_02542,person_02542,95692,recife,SP
+cust_02543,person_02543,38692,rio de janeiro,PR
+cust_02544,person_02544,80723,belo horizonte,SP
+cust_02545,person_02545,40354,sao paulo,SP
+cust_02546,person_02546,79685,curitiba,MG
+cust_02547,person_02547,58889,belo horizonte,MG
+cust_02548,person_02548,47546,salvador,PE
+cust_02549,person_02549,13677,belo horizonte,SP
+cust_02550,person_02550,65803,rio de janeiro,SP
+cust_02551,person_02551,32787,sao paulo,SP
+cust_02552,person_02552,22468,rio de janeiro,SP
+cust_02553,person_02553,20127,belo horizonte,SP
+cust_02554,person_02554,98204,sao paulo,RJ
+cust_02555,person_02555,11224,belo horizonte,RJ
+cust_02556,person_02556,80053,salvador,MG
+cust_02557,person_02557,86747,recife,SP
+cust_02558,person_02558,4074,curitiba,SP
+cust_02559,person_02559,59343,salvador,MG
+cust_02560,person_02560,58162,recife,SP
+cust_02561,person_02561,36508,curitiba,PE
+cust_02562,person_02562,67004,salvador,SP
+cust_02563,person_02563,41457,sao paulo,RJ
+cust_02564,person_02564,44529,recife,PE
+cust_02565,person_02565,43719,rio de janeiro,RJ
+cust_02566,person_02566,80265,recife,MG
+cust_02567,person_02567,63681,salvador,MG
+cust_02568,person_02568,38525,belo horizonte,SP
+cust_02569,person_02569,92749,sao paulo,MG
+cust_02570,person_02570,80403,belo horizonte,PE
+cust_02571,person_02571,93344,belo horizonte,BA
+cust_02572,person_02572,73318,salvador,RJ
+cust_02573,person_02573,39757,salvador,SP
+cust_02574,person_02574,77520,curitiba,PR
+cust_02575,person_02575,33596,salvador,RJ
+cust_02576,person_02576,27821,belo horizonte,SP
+cust_02577,person_02577,45653,belo horizonte,SP
+cust_02578,person_02578,96960,salvador,SP
+cust_02579,person_02579,57224,recife,RJ
+cust_02580,person_02580,38985,curitiba,SP
+cust_02581,person_02581,46719,belo horizonte,SP
+cust_02582,person_02582,29830,recife,SP
+cust_02583,person_02583,66215,recife,BA
+cust_02584,person_02584,35691,belo horizonte,SP
+cust_02585,person_02585,55884,sao paulo,SP
+cust_02586,person_02586,37611,sao paulo,RJ
+cust_02587,person_02587,32750,sao paulo,SP
+cust_02588,person_02588,97052,belo horizonte,BA
+cust_02589,person_02589,35227,curitiba,PE
+cust_02590,person_02590,7981,recife,SP
+cust_02591,person_02591,38480,rio de janeiro,RJ
+cust_02592,person_02592,53681,recife,SP
+cust_02593,person_02593,10369,curitiba,SP
+cust_02594,person_02594,31262,sao paulo,SP
+cust_02595,person_02595,17440,belo horizonte,SP
+cust_02596,person_02596,50563,rio de janeiro,SP
+cust_02597,person_02597,72587,salvador,RJ
+cust_02598,person_02598,96878,salvador,SP
+cust_02599,person_02599,39520,recife,SP
+cust_02600,person_02600,86461,curitiba,RJ
+cust_02601,person_02601,22239,belo horizonte,RJ
+cust_02602,person_02602,78268,rio de janeiro,SP
+cust_02603,person_02603,56704,recife,SP
+cust_02604,person_02604,76058,sao paulo,SP
+cust_02605,person_02605,75797,rio de janeiro,SP
+cust_02606,person_02606,53710,sao paulo,PR
+cust_02607,person_02607,26484,belo horizonte,PE
+cust_02608,person_02608,53091,rio de janeiro,SP
+cust_02609,person_02609,82851,rio de janeiro,SP
+cust_02610,person_02610,97094,belo horizonte,MG
+cust_02611,person_02611,92822,salvador,MG
+cust_02612,person_02612,18965,curitiba,SP
+cust_02613,person_02613,60141,recife,SP
+cust_02614,person_02614,11354,salvador,RJ
+cust_02615,person_02615,67225,salvador,RJ
+cust_02616,person_02616,99240,belo horizonte,SP
+cust_02617,person_02617,6204,salvador,SP
+cust_02618,person_02618,66000,salvador,SP
+cust_02619,person_02619,94605,salvador,SP
+cust_02620,person_02620,84870,belo horizonte,RJ
+cust_02621,person_02621,39855,rio de janeiro,MG
+cust_02622,person_02622,11288,curitiba,RJ
+cust_02623,person_02623,92465,salvador,SP

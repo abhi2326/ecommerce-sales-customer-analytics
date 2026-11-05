@@ -1,0 +1,27 @@
+-- Create these measures in Power BI after loading fact_order_items.
+GMV = SUM ( fact_order_items[gmv] )
+Freight Revenue = SUM ( fact_order_items[freight_value] )
+Orders = DISTINCTCOUNT ( fact_order_items[order_id] )
+Customers = DISTINCTCOUNT ( fact_order_items[customer_unique_id] )
+Average Order Value = DIVIDE ( [GMV], [Orders] )
+Items Sold = COUNTROWS ( fact_order_items )
+Average Review Score = AVERAGE ( fact_order_items[review_score] )
+Late Orders =
+CALCULATE (
+    DISTINCTCOUNT ( fact_order_items[order_id] ),
+    fact_order_items[is_late] = 1
+)
+Eligible Delivery Orders =
+CALCULATE (
+    DISTINCTCOUNT ( fact_order_items[order_id] ),
+    NOT ( ISBLANK ( fact_order_items[is_late] ) )
+)
+Late Delivery Rate = DIVIDE ( [Late Orders], [Eligible Delivery Orders] )
+Average Delivery Days = AVERAGE ( fact_order_items[delivery_days] )
+
+-- Category revenue share; respects report filters except category filter.
+Category Revenue Share =
+DIVIDE (
+    [GMV],
+    CALCULATE ( [GMV], REMOVEFILTERS ( fact_order_items[category] ) )
+)
